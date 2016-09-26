@@ -1,0 +1,67 @@
+{% comment %}
+This code is crap ! Need a good refactor.
+{% endcomment %}
+
+{% assign objectType = include.objectType %}
+
+{% comment %} +++++ Verifies that 'objectType' is a valid type +++++ {% endcomment %}
+{% comment %} +++++ Get available content types from config +++++ {% endcomment %}
+{% assign types = site.admin.content-types %}
+
+{% comment %}Create an empty array{% endcomment %}
+{% assign allowedTypes = "" | split: "/" %}
+{% for type in types %}{% assign allowedTypes = allowedTypes | push: type[0] %}{% endfor %}
+
+{% unless allowedTypes contains objectType %}
+<div class="alert alert-warning"><p>
+<strong>Include error : </strong> Please pass an "objectType" argument to "_includes/utils/admin-table.html".
+Wrong argument passed to "_includes/utils/admin-table.html".<br>
+Passed : {{ objectType | inspect }}<br>
+Allowed : {{ types | join: " - " }}</p>
+</div>
+{% endunless %}
+
+{% comment %} +++++ Get config for current object type +++++ {% endcomment %}
+{% assign typeConfig = site.admin.content-types[objectType] %}
+{% comment %}Get config for non displayable props in listings{% endcomment %}
+{% assign noDisplayProps = typeConfig.noDisplayProps %}
+{% comment %}Get config for displayable props in listings{% endcomment %}
+{% assign displayProps = typeConfig.displayProps %}
+
+{% if  objectType == "pages" %}
+  {% assign documents = site.pages %}
+{% elsif objectType == "catalog" %}
+  {% assign documents = site.catalog | sort: "title" %}
+{% elsif objectType == "posts" %}
+  {% assign documents = site.posts %}
+{% endif %}
+
+<h3>{{ objectType | capitalize }} (count = {{ documents.size }})</h3>
+
+<table class="table">
+<thead><tr>
+{% for prop in displayProps %}
+  <th>{{ prop }}</th>
+{% endfor %}
+</tr></thead>
+<tbody>
+{% if  objectType == "pages" %}
+  {% for doc in documents %}
+  <tr>
+  {% for prop in displayProps %}
+  <td>{{ doc[prop] }}</td>
+  {% endfor %}
+  </tr>
+  {% endfor %}
+{% elsif objectType == "catalog" or objectType == "posts" %}
+  {% for doc in documents %}
+  <tr>
+  {% for prop in displayProps %}
+  <td>{{ doc[prop] }}</td>
+  {% endfor %}
+  </tr>
+  {% endfor %}
+{% endif %}
+
+</tbody>
+</table>

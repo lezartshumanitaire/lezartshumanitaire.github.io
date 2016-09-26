@@ -1,0 +1,47 @@
+<div class="container">
+{% include utils/old_browser.html %}
+{% include utils/noscript.html %}
+{% include utils/cookiewarning.html %}
+<div class="jumbotron home-jumbo2">
+  <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/{{ site.titleImage }}" alt="Ong Lezarts Humanitaire" class="titre img-responsive"></a>
+</div>
+
+</div>
+{% comment %} >>>>>>>>>>>>>>>>>> Generates a menu Twitter Bootstrap style
+Include with :  {% include header.html navId="main" %}
+Pages that have a corresponding "menu: string" in front matter will be included in this menu
+Pages are sorted by "weight"
+{% endcomment %}
+{% assign navbarId = include.navId %}
+{% if navbarId == "" or navBarId == nil %}{% assign navbarId = "main" %}{% endif %}
+
+<!--Navbar {{ navbarId }}-->
+<nav class="navbar navbar-default">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span>Menu</span>
+      </button>
+      <div class="site-title">
+        <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/{{ site.logoImage }}" alt="" class=""></a>
+        <h1><a class="" href="{{ site.baseurl }}/">{{ site.title }}</a><small></small></h1>
+      </div>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right"{% if navbarId == 'main' %} id="navigation"{% endif %}>
+
+{% assign pages = site.pages | sort: 'weight' %}
+
+{% for p in pages %}
+  {% if p.menu == navbarId %}
+    <li{% if p.url == page.url %} class="active"{% endif %}><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
+    </div>
+</nav>
+</div>

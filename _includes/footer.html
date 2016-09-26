@@ -1,0 +1,31 @@
+{% assign colClasses = "col-sm-3" %}
+
+<div class="container">
+  <footer class="footer row">
+
+    <div class="col-xs-2 hidden-xs">
+      <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/{{ site.logoImage }}" alt="Ong Lezarts Humanitaire" class="img-responsive"></a>
+    </div>
+
+    <div class="{{ colClasses }} col-sm-offset-1">
+      {% assign pages = site.pages | sort: 'weight' %}
+      <ul>
+      {% for p in pages %}
+        {% if p.menu == "main" %}
+      <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+    </div>
+
+    <div class="{{ colClasses }}">
+    {% assign footerPages = site.pages | where: "menu", "footer" %}
+      <ul class="list-inline">
+      {% for p in footerPages %}
+        <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+      {% endfor %}
+      <li class="text-muted">&copy; {{site.title}} 2016</li>
+      </ul>
+    </div>
+  </footer>
+</div>

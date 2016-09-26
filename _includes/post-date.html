@@ -1,0 +1,4 @@
+{% comment %}--------------- returns post date {% endcomment %}
+
+{% assign post = include.post %}
+<p class="postDate">publié le {{ post.date | date:"%d/%m/%y"}}</p>
