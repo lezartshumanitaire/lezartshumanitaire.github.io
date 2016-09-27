@@ -1,6 +1,8 @@
 ---
 title: Dummy post with a title and no excerpt separator
+
 date:   2016-09-20 11:13:46 +0100
+
 # images d'illustration
 # la première image de la liste est utilisée comme illustration de l'article dans les pages de listing.
 images:
@@ -10,6 +12,12 @@ images:
 # voir liste dans _data/authors
 authors:
  - admin
+
+# categories du post
+# voir liste des catégories dans la documentation rédacteur
+categories:
+ - rapports
+
 ---
 
 dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.

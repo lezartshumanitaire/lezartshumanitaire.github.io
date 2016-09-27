@@ -1150,13 +1150,13 @@ blockquote{
 }
 
 .page-header{
+  margin-top: 10px;
   a{
     border: none;
   }
 }
 
 .invite{
-
   padding: 10px;
   // transform: rotate(2deg);
   border: 1px solid $thumbnail-border;
@@ -1181,10 +1181,21 @@ blockquote{
 }
 
 .postAuthors,
-.postDate{
+.postDate,
+.postCategories{
   font-style: italic;
   font-size: $font-size-small;
   color: $gray;
   padding: 0;
   margin: 0;
 }
+
+.postCategories{
+
+  ul{
+    display: inline;
+  }
+
+}
+
+

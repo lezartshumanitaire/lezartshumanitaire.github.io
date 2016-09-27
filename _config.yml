@@ -1,6 +1,6 @@
 # Site settings
 title: "ONG LézArts Humanitaire"
-description: "L'ONG LézArts humanitaire est une organisation non-gouvernementale laïque, dont l'objectif est de favoriser et mettre en oeuvre des projets à caractère social, économique et culturel."
+description: "L'ONG LézArts humanitaire est une organisation non-gouvernementale laïque, dont l'objectif est de favoriser et mettre en œuvre des projets à caractère social, économique et culturel."
 
 emails:
   - ptk.baumann@gmail.com
@@ -29,7 +29,9 @@ authors:
     nom: Jacquel
     fonction: Administrateur du site
 
-
+collections:
+  historique:
+    output: false
 
 defaults:
   -
@@ -44,6 +46,14 @@ defaults:
       type: posts
     values:
       layout: post
+
+  -
+    scope:
+      type: pages
+      path: "actualite/categorie"
+    values:
+      # permalink: /:basename/
+      layout: actualiteCategory
 
 excerpt_separator: <!--more-->
 
@@ -181,13 +191,14 @@ admin:
        - authors
        - date
        - slug
-       - ext
        - tags
+       - categories
 
       noDisplayProps:
        - path
        - url
        - type
+       - ext
        - id
        - matieres
        - taille

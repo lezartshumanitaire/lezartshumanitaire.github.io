@@ -1,0 +1,27 @@
+{% comment %}--------------- returns post categories {% endcomment %}
+{% assign post = include.post %}
+
+{% assign categoriesArray = "" | split: "/" %}
+
+{% for category in post.categories %}
+
+  {% capture categoryOutput %}<li><a href="{{ site.baseurl }}/actualite/categorie/{{ category }}/">{{ category | camelize }}</a></li>{% endcapture %}
+
+  {% assign categoriesArray = categoriesArray | push: categoryOutput %}
+
+{% endfor %}
+
+{% if categoriesArray.size > 0 %}
+{% assign categoriesArray = categoriesArray | join: ", " %}
+<span class="postCategories">
+  <span>Catégories : </span>
+  <ul class="list-inline">
+    {{ categoriesArray }}
+  </ul>
+</span>
+{% endif %}
+
+
+
+
+

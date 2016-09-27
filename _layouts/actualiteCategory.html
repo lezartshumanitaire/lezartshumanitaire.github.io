@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="col-sm-12">
+<h1 class="page-header">
+<a href="{{ site.baseurl }}/actualite/">Actualité</a>
+<span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+catégorie : {{ page.title | camelize }}
+</h1>
+</div>
+
+{% assign categoryPosts = site.categories[page.title] %}
+{% include postsList.html posts=categoryPosts %}

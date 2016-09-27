@@ -13,9 +13,8 @@ authors:
  - ptk
 
 # categories du post
-# voir liste dans _config.yml entrée authors
+# voir liste des catégories dans la documentation rédacteur
 categories:
- - news
  - rapports
 
 ---

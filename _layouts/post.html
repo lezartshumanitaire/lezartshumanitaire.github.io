@@ -6,9 +6,12 @@ layout: default
   <div class="col-sm-4">
 
 {% for i in page.images %}
+
+{% assign pageYear = page.date | date: "%Y" %}
+
 <div class="col-sm-12">
   <figure class="thumbnail rot1">
-    <img src="{{ site.baseurl }}/img/blog/{{ i }}.jpg" alt="{{ page.title }}" class="img-responsive">
+    <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ i }}.jpg" alt="{{ page.title }}" class="img-responsive">
   </figure>
 </div>
 
@@ -20,6 +23,7 @@ layout: default
     <h2 class="page-header">{{ page.title }}</h2>
     {% include post-authors.html post=page %}
     {% include post-date.html post=page %}
+    {% include post-categories.html post=page %}
     {{ content }}
   </div>
 </div>

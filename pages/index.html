@@ -50,7 +50,7 @@ layout: default
     <div class="invite">
       <h2 class="page-header"><a href="{{ site.baseurl }}/actualite/">Actualité</a></h2>
       <ul class="list-unstyled">
-      {% for post in site.posts limit: 3 %}
+      {% for post in site.posts limit: 4 %}
       <li><a href="{{ site.baseurl}}{{ post.url }}">
       {% include post-date.html post=post style="short" %} - {{ post.title }}
       </a></li>
