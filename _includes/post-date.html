@@ -1,4 +1,6 @@
 {% comment %}--------------- returns post date {% endcomment %}
-
 {% assign post = include.post %}
-<p class="postDate">publié le {{ post.date | date:"%d/%m/%y"}}</p>
+{% assign style = include.style %}
+{% if style == nil %}{% assign style = "long" %}{% endif %}
+{% if style == "long" %}<p class="postDate">publié le {{ post.date | date:"%d/%m/%y"}}</p>
+{% else %}{{ post.date | date:"%d/%m/%y"}}{% endif %}

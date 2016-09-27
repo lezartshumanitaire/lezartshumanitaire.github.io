@@ -7,31 +7,41 @@ weight: 100
 <div class="row">
 
   <div class="col-sm-4">
-  <figure>
-  <a href="#"><img src="{{ site.baseurl }}/img/home/sourire.jpg" alt=""></a>
-  <div class="caption">
-  <h3>Donnez</h3>
-  </div>
-  </figure>
+    <figure class="thumbnail rot0">
+      <a href="#"><img src="{{ site.baseurl }}/img/home/sourire.jpg" alt="Donner" class="img-responsive"></a>
+    </figure>
   </div>
 
-  <div class="col-md-5">
+  <div class="col-sm-4">
     <address itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
-      <strong>Association Lézarts Humanitaires</strong><br>
-      <span itemprop="street-address">
-        Ferme des Quartiers<br>
-      </span>
+      <strong>LézArts Humanitaires France</strong><br>
+      <span itemprop="name">Patrick BAUMANN<br></span>
+      <span itemprop="street-address">Ferme des Quartiers<br></span>
       <span itemprop="postal-code">52000</span>
       <span itemprop="locality">Riaucourt</span><br>
       <span itemprop="country-name">France</span><br>
-      <br>
       <abbr title="Phone" itemprop="tel">T</abbr> : <span itemprop="tel">+33 3 25 03 78 20</span><br>
     </address>
+  </div>
+
+  <div class="col-sm-4">
+    <address itemprop="address" itemscope itemtype="http://data-vocabulary.org/Address">
+      <strong>LézArts Humanitaires Suisse</strong><br>
+      <span itemprop="name">Martin RATHGEB<br></span>
+      <span itemprop="street-address">Schaffhauserstrasse 355<br></span>
+      <span itemprop="postal-code">8050</span>
+      <span itemprop="locality">Zürich</span><br>
+      <span itemprop="country-name">Suisse</span><br>
+      <abbr title="Phone" itemprop="tel">T</abbr> : <span itemprop="tel">+41 43 288 53 40</span><br>
+    </address>
+  </div>
 
 
+  <div class="col-sm-8 col-sm-offset-4">
     <h4>Envoyez nous un message !</h4>
     <!-- see http://formspree.io/ -->
     <form action="//formspree.io/{{ site.emails[0] }}" method="POST">
+
         <div class="form-group">
             <label for="name">Votre nom</label>
             <input type="text" id="name" name="name"class="form-control" >
@@ -44,6 +54,7 @@ weight: 100
             <label for="message">Votre message</label>
             <textarea name="message" id="message" rows="10"class="form-control" ></textarea>
         </div>
+
         <input type="text" name="_gotcha" style="display:none">
         <input type="hidden" name="_next" value="{{ site.url }}/contact-thank-you/">
         <input type="hidden" name="_cc" value="{{ site.emails[1] }}" />

@@ -8,6 +8,8 @@
 **/
 $headerCrunch: "500px";
 
+$boxShadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.3);
+
 /**
   This will override variables from
   /bower_components/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss
@@ -894,7 +896,7 @@ $blockquote-font-size:        ($font-size-base * 1.25) !default;
 //** Blockquote border color
 $blockquote-border-color:     $gray-lighter !default;
 //** Page header border color
-$page-header-border-color:    $gray-lighter !default;
+$page-header-border-color:    lighten($brand-primary, 30%) !default;
 //** Width of horizontal description list titles
 $dl-horizontal-offset:        $component-offset-horizontal !default;
 //** Point at which .dl-horizontal becomes horizontal
@@ -927,7 +929,7 @@ h1, h2{
 
 
 figure{
-    box-shadow: -1px 2px 5px 1px rgba(0, 0, 0, 0.3);
+    box-shadow: $boxShadow;
 
   h3{
     font-size: 18px;
@@ -1128,15 +1130,6 @@ blockquote{
 
 }
 
-.postAuthors,
-.postDate{
-  font-style: italic;
-  font-size: $font-size-small;
-  color: $gray;
-  padding: 0;
-  margin: 0;
-}
-
 .footer{
   border-top: 1px solid $brand-success;
   margin: 20px 0;
@@ -1154,4 +1147,44 @@ blockquote{
 
 .swatch{
   height: 100px;
+}
+
+.page-header{
+  a{
+    border: none;
+  }
+}
+
+.invite{
+
+  padding: 10px;
+  // transform: rotate(2deg);
+  border: 1px solid $thumbnail-border;
+  background: lighten($brand-info, 70%);
+  box-shadow: $boxShadow;
+
+  .lead{
+    font-size: ceil(($font-size-base * 1.1));
+    font-weight: bold;
+    text-align: justify;
+  }
+
+  .page-header{
+    margin: 0;
+  }
+
+  @include clearfix();
+}
+
+.moreButton{
+  float: right;
+}
+
+.postAuthors,
+.postDate{
+  font-style: italic;
+  font-size: $font-size-small;
+  color: $gray;
+  padding: 0;
+  margin: 0;
 }
