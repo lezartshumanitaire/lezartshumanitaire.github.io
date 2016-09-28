@@ -4,28 +4,34 @@ layout: default
 <div class="row">
 
   <div class="col-sm-4">
-
-{% for i in page.images %}
-
-{% assign pageYear = page.date | date: "%Y" %}
-
-<div class="col-sm-12">
-  <figure class="thumbnail rot1">
-    <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ i }}.jpg" alt="{{ page.title }}" class="img-responsive">
-  </figure>
-</div>
-
-{% endfor %}
-
+  {% for i in page.images %}
+  {% assign pageYear = page.date | date: "%Y" %}
+  <div class="col-sm-12">
+    <figure class="thumbnail rot1">
+      <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ i }}.jpg" alt="{{ page.title }}" class="img-responsive">
+    </figure>
+  </div>
+  {% endfor %}
   </div>
 
   <div class="col-sm-8">
-    <h2 class="page-header">{{ page.title }}</h2>
+    <h1 class="page-header">
+      <a href="{{ site.baseurl }}/actualite/">Actualité</a>
+       &gt;
+      {{ page.title | camelize }}
+    </h1>
     {% include post-authors.html post=page %}
     {% include post-date.html post=page %}
     {% include post-categories.html post=page %}
     {{ content }}
   </div>
+
+    {% for doc in page.docs %}
+  <div class="col-sm-8">
+    <a href="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ doc }}.jpg">
+      <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ doc }}.jpg" alt="{{ page.title }}" class="img-responsive">
+    </a>
+  </div>
+    {% endfor %}
+
 </div>
-
-

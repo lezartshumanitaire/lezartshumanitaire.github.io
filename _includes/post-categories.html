@@ -5,7 +5,7 @@
 
 {% for category in post.categories %}
 
-  {% capture categoryOutput %}<li><a href="{{ site.baseurl }}/actualite/categorie/{{ category }}/">{{ category | camelize }}</a></li>{% endcapture %}
+  {% capture categoryOutput %}<li><a href="{{ site.baseurl }}/actualite/{{ category }}/">{{ category | camelize }}</a></li>{% endcapture %}
 
   {% assign categoriesArray = categoriesArray | push: categoryOutput %}
 

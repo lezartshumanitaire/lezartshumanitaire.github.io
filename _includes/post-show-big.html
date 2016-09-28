@@ -1,0 +1,27 @@
+{% assign post = include.post %}
+{% assign firstPicture = post.images.first %}
+{% assign postYear = post.date | date: "%Y" %}
+
+<div class="row">
+  <div class="col-sm-4">
+    <figure class="thumbnail">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <img src="{{ site.baseurl }}/img/actualite/{{ postYear }}/{{ firstPicture }}.jpg" alt="{{ post.title }}" class="img-responsive">
+      </a>
+    </figure>
+  </div>
+  <div class="col-sm-8">
+    <div class="textBox">
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      {% include post-authors.html post=post %}
+      {% include post-date.html post=post %}
+      {% include post-categories.html post=post %}
+      {% if post.content contains site.excerpt_separator %}
+        {{ post.excerpt }}
+      {% else %}
+        {{ post.content | truncate: 100 }}
+      {% endif %}
+      <p><a href="{{ site.baseurl }}{{ post.url }}">Lire la suite</a></p>
+    </div>
+  </div>
+</div>

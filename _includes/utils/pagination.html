@@ -1,0 +1,264 @@
+{% assign debug = false %}
+
+{% comment %}############### TODOS
+
+make it responsive
+
+{% endcomment %}
+
+
+{% comment %}+++++++++++++++++++++++++++++++++++++++++++++++++++++
+PAGINATOR
+
+  Rules :
+
+    1 - only paginates if we have more than one page
+    2 - if we are on first page don't show **previous** link
+    3 - if we are on last page don't show **last** link
+    5 - always shows a current page with **wagonOnEachSide** links
+    6 - always show at least **dockSize** links at the begin and at the end of the serie
+
+  Variables configurable in _config.yml :
+
+    pagination-wagonOnEachSide : Number of link on each side of the current page link
+                                 if not set, default to 2
+
+    pagination-dockSize : Number of link always present at the beginning and
+                          end of the pagination bar
+                          if not set, default to 2
+
+  patterns and limits :
+
+    example with wagonOnEachSide = 2, dockSize = 2 and 12 pages
+
+    limits are :
+      1 - leftDockEnd - index of the last left static link
+      2 - trainStart - index of the first link in the train
+      3 - trainEnd - index of the last link in the train
+      4 - rightDocStart - index of the first right static link
+
+             2  1     3     4
+             v  v     v     v
+            [1] 2 3 4 5 ... 11 12            stopped
+
+             2  1      3     4
+             v  v      v     v
+             1 [2] 3 4 5 ... 11 12           stopped
+
+             2 1       3     4
+             v v       v     v
+             1 2 [3] 4 5 ... 11 12           stopped
+
+              1&2        3     4
+               v         v     v
+             1 2 3 [4] 5 6 ... 11 12          moving
+
+               1 2         3     4
+               v v         v     v
+             1 2 3 4 [5] 6 7 ... 11 12        moving
+
+               1     2         3     4
+               v     v         v     v
+             1 2 ... 4 5 [6] 7 8 ... 11 12    moving
+
+               1     2         3  4
+               v     v         v  v
+             1 2 ... 6 7 [8] 9 10 11 12       moving
+
+               1     2         3&4
+               v     v          v
+             1 2 ... 7 8 [9] 10 11 12         moving
+
+               1     2        4  3
+               v     v        v  v
+             1 2 ... 8 9 [10] 11 12           stopped
+
+               1     2   4       3
+               v     v   v       v
+             1 2 ... 8 9 10 11 [12]           stopped
+
+++++++++++++++++++++++++++++++++++++++++++++++++++{% endcomment %}
+
+{% if paginator.total_pages > 1 %}
+  {% comment %} ++++++++++++ Parameters ++++++++++++ {% endcomment %}
+  {% comment %}
+  wagonOnEachSide : Number of link on each side of the current page link
+                    number > 0
+
+                    this & this
+                    ___     ___
+                    v v     v v
+                    1 2 [3] 4 5
+
+                    1,2,3,4 and 5 are the TRAIN
+                    3 is the LOCO
+  {% endcomment %}
+  {% assign w = site.pagination-wagonOnEachSide %} {% comment %}shortener{% endcomment %}
+  {% if w == nil or w == '' or w == false %}
+      {% assign wagonOnEachSide = 2 %}
+  {% else %}
+      {% assign wagonOnEachSide = w %}
+  {% endif %}
+{% if debug == true %}wagonOnEachSide : {{ wagonOnEachSide }}<br>{% endif %}
+
+
+  {% comment %}
+  dockSize : Number of link always present at the beginning and end of the pagination bar
+             number > 0
+
+                      this        &        this
+                       v                    v
+                < prev 1 ... 3 4 [5] 6 7 .. 10 next >
+
+                They are called the DOCKs
+  {% endcomment %}
+  {% assign d = pagination-dockSize %} {% comment %}shortener{% endcomment %}
+  {% if d == nil or d == '' or d == false %}
+      {% assign dockSize = 2 %}
+  {% else %}
+      {% assign dockSize = w %}
+  {% endif %}
+{% if debug == true %}dockSize : {{ dockSize }}<br>{% endif %}
+  {% comment %} ++++++++++++ Pagination logic ++++++++++++
+                ++++++ DO NOT MODIFY BELLOW THIS LINE ++++ {% endcomment %}
+
+{% if debug == true %}paginator.total_pages : {{ paginator.total_pages }}<br>{% endif %}
+
+  {% assign trainLength = wagonOnEachSide | times: 2 | plus: 1 %}
+{% if debug == true %}trainLength : {{ trainLength }}<br>{% endif %}
+
+{% comment %} NOT USED
+  {% assign totalStaticLinks = dockSize | times: 2 %}
+{% endcomment %}
+{% comment %}Not always ????? NOT USED
+  {% assign totalLinks = trainLength | plus: totalStaticLinks %}
+{% endcomment %}
+
+  {% capture elipsisButton %}<li class="disabled"><span aria-hidden="true">&hellip;</span></li>{% endcapture %}
+
+  {% capture prevButton %}
+    {% if paginator.previous_page %}
+      <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a></li>
+    {% else %}
+      <li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a></li>
+    {% endif %}
+  {% endcapture %}
+
+  {% capture nextButton %}
+    {% if paginator.next_page %}
+      <li><a href="{{ paginator.next_page_path | prepend: site.baseurl }}" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
+    {% else %}
+      <li class="disabled"><a href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
+    {% endif %}
+  {% endcapture %}
+
+  {% assign leftDockEnd = dockSize %}
+  {% if debug == true %}leftDockEnd : {{ leftDockEnd }}<br>{% endif %}
+
+  {% assign rightDocStart = paginator.total_pages | minus: dockSize | plus: 1 %}
+  {% if debug == true %}rightDocStart : {{ rightDocStart }}<br>{% endif %}
+
+  {% assign trainStartAt = wagonOnEachSide | plus: 2 %}
+  {% if debug == true %}trainStartAt : {{ trainStartAt }}<br>{% endif %}
+
+  {% assign trainStopAt = paginator.total_pages | minus: 2 %}
+  {% if debug == true %}trainStopAt : {{ trainStopAt }}<br>{% endif %}
+
+  {% if paginator.page < trainStartAt %}
+    {% assign trainStart = 1 %}
+  {% elsif paginator.page > trainStopAt %}
+    {% assign trainStart = paginator.total_pages | minus: trainLength %}
+  {% else %}
+    {% assign trainStart = paginator.page | minus: wagonOnEachSide %}
+  {% endif %}
+
+  {% if debug == true %}trainStart : {{ trainStart }}<br>{% endif %}
+
+  {% assign trainEnd = trainStart | plus: trainLength | minus: 1 %}
+  {% if debug == true %}trainEnd : {{ trainEnd }}<br>{% endif %}
+
+  {% assign leftEllipsisPrinted = false %}
+  {% assign rightEllipsisPrinted = false %}
+
+  {% comment %} ++++++++++++++++ Guessing the index url
+
+  The **paginate_path** is on the form folder/page:num and can be folder/:num/folder
+
+  Logically index page is at folder/
+
+  So we strip anything from and including the element that contains :num placeholder
+
+  If your index page IS NOT in this folder (eg: /index.html with a paginate_path: blog/page:num),
+  this will not work !!!
+  You then have to set the indexUrl in the line bellow.
+  eg : {% assign indexUrl = "/"%}
+
+  If your index is in the same folder as paginate_path expose, you can live it blank
+  {% assign indexUrl = ""%}
+
+  {% endcomment %}
+  {% comment %}Set this if needed{% endcomment %}{% assign indexUrl = ""%}
+
+  {% if indexUrl == "" %}
+      {% assign elemArray = site.paginate_path | split: "/" %}
+      {% assign urlArray  = "" | split: "/" %}
+      {% for el in elemArray %}
+        {% if el contains ':num' %}
+            {% break %}
+        {% endif %}
+        {% assign urlArray  = urlArray | push: el %}
+      {% endfor %}
+      {% assign indexUrl = urlArray | join: "/" %}
+  {% endif %}
+
+{% comment %}++++++++++ Printing links +++++++++++{% endcomment %}
+<nav class="paginationContainer">
+  <ul class="pagination">
+    {{ prevButton }}
+
+    {% for index in (1..paginator.total_pages) %}
+
+      {% capture indexLink %}<a href="{{ site.baseurl }}{{ indexUrl }}/">page {{ index }}</a>{% endcapture %}
+      {% capture linkUrl %}{{ site.baseurl }}{{ site.paginate_path }}{% endcapture %}
+      {% capture link %}<a href="{{ linkUrl | replace: ':num', index }}">page {{ index }}</a>{% endcapture %}
+
+      {% comment %} Printing links {% endcomment %}
+      {% if index == paginator.page %}{% comment %} Current page NO LINK {% endcomment %}
+        <li class="active"><span>page {{ index }}<span class="sr-only">(current)</span></span></li>
+
+      {% elsif index == 1 %}{% comment %}Index page always printed{% endcomment %}
+        <li>{{ indexLink }}</li>
+
+      {% elsif index <= leftDockEnd %}{% comment %}Left dock link always printed{% endcomment %}
+        <li>{{ link }}</li>
+
+      {% elsif index > leftDockEnd and index < trainStart %}{% comment %}Left ellipsis{% endcomment %}
+        {% if leftEllipsisPrinted == false %}
+            {{ elipsisButton }}
+            {% assign leftEllipsisPrinted = true %}
+        {% endif %}
+
+      {% elsif index >= trainStart and index <= trainEnd %} {% comment %}The TRAIN{% endcomment %}
+        {% assign offsetLeft = paginator.page | minus: 1 %}
+        {% assign offsetRight = paginator.page | plus: 1 %}
+        {% if index < offsetLeft or index > offsetRight %}
+            <li class="hidden-xs">{{ link }}</li>
+        {% else %}
+          <li>{{ link }}</li>
+        {% endif %}
+
+      {% elsif index > trainEnd and index < rightDocStart %}
+        {% if rightEllipsisPrinted == false %}
+            {{ elipsisButton }}
+            {% assign rightEllipsisPrinted = true %}
+        {% endif %}
+
+      {% elsif index >= rightDocStart %}
+        <li>{{ link }}</li>
+      {% endif %}
+    {% endfor %}
+
+    {{ nextButton }}
+  </ul>
+</nav>
+{% endif %}

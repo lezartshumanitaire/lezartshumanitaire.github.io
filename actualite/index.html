@@ -1,0 +1,11 @@
+---
+title: Actualité
+menu: main
+weight: 42
+layout: page
+blogCategory: false
+---
+
+{% include utils/pagination.html %}
+{% include posts-list.html posts=paginator.posts %}
+{% include utils/pagination.html %}

@@ -3,7 +3,7 @@ title: "ONG LézArts Humanitaire"
 description: "L'ONG LézArts humanitaire est une organisation non-gouvernementale laïque, dont l'objectif est de favoriser et mettre en œuvre des projets à caractère social, économique et culturel."
 
 emails:
-  - ptk.baumann@gmail.com
+  - lezarts.humanitaire@wanadoo.fr
   - ptk@pygmeeweb.com
 
 baseurl: ""
@@ -29,6 +29,11 @@ authors:
     nom: Jacquel
     fonction: Administrateur du site
 
+  - id: issoufou
+    prenom: Issoufou
+    nom: Salifou
+    fonction: Directeur de l'école de Tagayène
+
 collections:
   historique:
     output: false
@@ -41,19 +46,25 @@ defaults:
     values:
       permalink: /:basename/
       layout: page
-  -
-    scope:
-      type: posts
-    values:
-      layout: post
 
   -
     scope:
       type: pages
       path: "actualite/categorie"
     values:
-      # permalink: /:basename/
+      permalink: /actualite/:basename/
       layout: actualiteCategory
+      blogCategory: true
+
+  -
+    scope:
+      type: posts
+    values:
+      layout: post
+      permalink: /actualite/:year/:slug/
+
+paginate: 20
+paginate_path: "/actualite/page:num"
 
 excerpt_separator: <!--more-->
 
@@ -87,7 +98,9 @@ exclude:
 include:
   - .nojekyll
 
-# gems: [jekyll/responsive_image]
+gems:
+ - jekyll-paginate
+# - jekyll/responsive_image
 
 responsive_image:
   # [Required]
@@ -172,6 +185,7 @@ admin:
   doDebug : true
   content-types:
     pages:
+      sort: url
       displayProps:
         - url
         - title
@@ -215,3 +229,7 @@ admin:
        - layout
        - relative_path
        - permalink
+
+
+
+

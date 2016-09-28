@@ -8,7 +8,7 @@ weight: 20
 
   <div class="col-sm-4">
     <figure class="thumbnail rot0">
-      <img src="{{ site.baseurl }}/img/association/groupe2.jpg" alt="Assocaition" class="img-responsive"></a>
+      <img src="{{ site.baseurl }}/img/association/groupe2.jpg" alt="Association" class="img-responsive"></a>
       <div class="caption">
       <h3>Une partie de nos bénévoles au Niger</h3>
       </div>
@@ -29,8 +29,36 @@ weight: 20
     <h2>Historique</h2>
 
 {% for item in site.historique %}
+<div class="col-sm-6">
 <h3>{{ item.title }}</h3>
+{% comment %}
+
+title: Projet Dan Marké 2002
+creation: 2002/01/01
+livraison: 2003/01/01
+cout: 1000
+actif: false
+authors: ptk
+{% endcomment %}
+<ul class="list-unstyled">
+  {% if item.creation and item.livraison %}<li>Période : du {{ item.creation | date:"%d/%m/%Y" }} au {{ item.livraison | date:"%d/%m/%Y" }}</li>
+  {% elsif item.creation %}<li>Date : {{ item.creation | date:"%d/%m/%Y" }}</li>{% endif %}
+
+  {% if item.cout %}<li>Coût : {{ item.cout }} €</li>{% endif %}
+  {% if item.actif == true %}<li>Project toujours en activité</li>{% else %}<li>Projet terminé</li>{% endif %}
+
+  {% capture responsables %}{% include post-authors.html post=item style="short" %}{% endcapture %}
+  {% if responsables contains ", " %}
+  {% assign r = "responsables" %}
+  {% else %}
+  {% assign r = "responsable" %}
+  {% endif %}
+  <li>{{ r }} : {{ responsables }}</li>
+</ul>
+
 {{ item.content }}
+</div>
+
 {% endfor %}
 
 </div>

@@ -2,17 +2,16 @@
 title: Accueil
 menu: main
 weight: 10
-permalink: /
 layout: default
 ---
 
 <div class="row">
 
   <div class="col-sm-4">
-    <div class="invite">
+    <div class="textBox">
       <p class="lead">Depuis plus de dix ans, LézArts Humanitaire travaille au Niger, dans la zone sahélienne en partenariat avec Aournide (ong nigérienne de Peuls bororos).</p>
       <p>Grâce à vos dons, nous avons pu créer écoles, équipements sanitaires, banques céréalières, coopératives artisanales, coopératives agricoles.</p>
-      <p><a href="{{ site.baseurl }}/l-association/" class="btn btn-info btn-lg btn-block">
+      <p><a href="{{ site.baseurl }}/association/" class="btn btn-info btn-lg btn-block">
       Découvrez notre association
        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
       </a></p>
@@ -23,7 +22,7 @@ layout: default
     <figure class="thumbnail rot1">
       <a href="#"><img src="{{ site.baseurl }}/img/home/sourire.jpg" alt="Donner" class="img-responsive"></a>
       <div class="caption">
-        <h3><a href="{{ site.baseurl }}/donner/"class="btn btn-success btn-lg btn-block">Donner
+        <h3><a href="{{ site.baseurl }}/faire-un-don/"class="btn btn-success btn-lg btn-block">Faire un don
          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
          </a></h3>
       </div>
@@ -47,7 +46,7 @@ layout: default
 <div class="row">
   <div class="col-sm-6 col-sm-offset-1">
 
-    <div class="invite">
+    <div class="textBox">
       <h2 class="page-header"><a href="{{ site.baseurl }}/actualite/">Actualité</a></h2>
       <ul class="list-unstyled">
       {% for post in site.posts limit: 4 %}
@@ -65,7 +64,9 @@ layout: default
     <figure class="thumbnail rot0">
       <a href="{{ site.baseurl }}/boutique/"><img src="{{ site.baseurl }}/img/home/equipe.jpg" alt="Boutique" class="img-responsive"></a>
       <div class="caption">
-      <h3><a href="{{ site.baseurl }}/boutique/"class="btn btn-danger btn-lg btn-block">Boutique</a></h3>
+      <h3><a href="{{ site.baseurl }}/boutique/"class="btn btn-danger btn-lg btn-block">Boutique
+       <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      </a></h3>
       </div>
     </figure>
   </div>

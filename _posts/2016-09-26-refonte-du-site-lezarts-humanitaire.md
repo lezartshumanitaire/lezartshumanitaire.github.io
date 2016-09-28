@@ -4,8 +4,7 @@ date:   2016-09-26 11:13:46 +0100
 # images d'illustration
 # la première image de la liste est utilisée comme illustration de l'article dans les pages de listing.
 images:
-  - jeune-peul
-  - jeune-peul-2
+  - home-lezarts-humanitaire
 
 # liste des auteurs de l'article
 # voir liste dans _config.yml entrée authors
@@ -15,7 +14,7 @@ authors:
 # categories du post
 # voir liste des catégories dans la documentation rédacteur
 categories:
- - rapports
+ - association
 
 ---
 

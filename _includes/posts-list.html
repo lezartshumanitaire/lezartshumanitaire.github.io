@@ -1,0 +1,11 @@
+{% assign postList = include.posts %}
+{% assign firstPost = postList.first %}
+
+{% include post-show-big.html post=firstPost %}
+
+{% for post in postList offset: 1 %}
+    {% assign remain = forloop.index | modulo: 3 %}
+    {% if remain == 1 %}<div class="row">{% endif %}
+    {% include post-show-small.html post=post %}
+    {% if remain == 0 or forloop.last == true %}</div>{% endif %}
+{% endfor %}

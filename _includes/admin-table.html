@@ -28,8 +28,14 @@ Allowed : {{ types | join: " - " }}</p>
 {% comment %}Get config for displayable props in listings{% endcomment %}
 {% assign displayProps = typeConfig.displayProps %}
 
+{% if typeConfig.sort == nil %}
+{% assign sortKey = 'title' %}
+{% else %}
+{% assign sortKey = typeConfig.sort %}
+{% endif %}
+
 {% if  objectType == "pages" %}
-  {% assign documents = site.pages %}
+  {% assign documents = site.pages | sort: sortKey%}
 {% elsif objectType == "catalog" %}
   {% assign documents = site.catalog | sort: "title" %}
 {% elsif objectType == "posts" %}

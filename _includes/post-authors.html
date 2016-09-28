@@ -1,13 +1,31 @@
 {% comment %}--------------- returns post authors formated as a string {% endcomment %}
+
 {% assign post = include.post %}
+
+{% assign style = include.style %}
+{% if style == nil %}{% assign style = "long" %}{% endif %}
+
+{% assign function = include.function %}
+{% if function == nil %}{% assign function = true %}{% endif %}
+
 {% assign authorsArray = "" | split: "/" %}
 {% for author in post.authors %}
   {% assign authorDatas = site.authors | where: "id", author | first %}
-  {% if authorDatas != nill %}
-    {% capture authorString %}{{ authorDatas.prenom }} {{ authorDatas.nom }} - {{ authorDatas.fonction }}{% endcapture %}
+  {% if authorDatas != nil %}
+    {% capture authorString %}
+      {{ authorDatas.prenom }} {{ authorDatas.nom }}
+      {% if function == true %} - {{ authorDatas.fonction }}{% endif %}
+    {% endcapture %}
     {% assign authorsArray = authorsArray | push: authorString %}
-  {% else %} {% comment %} Nothing happen here {% endcomment %}
   {% endif %}
 {% endfor %}
-{% if authorsArray.size > 0 %}{% assign authorsOutput = authorsArray | join: ", " | prepend: "par " %}
-<p class="postAuthors">{{ authorsOutput }}</p>{% endif %}
+
+{% if authorsArray.size > 0 %}
+  {% assign authorsOutput = authorsArray | join: ", " %}
+  {% if style == "long" %}
+    {% assign authorsOutput = authorsOutput | prepend: "par " %}
+    <p class="postAuthors">{{ authorsOutput }}</p>
+  {% else %}
+    {{ authorsOutput }}
+  {% endif %}
+{% endif %}
