@@ -3,16 +3,26 @@ layout: default
 ---
 <div class="row">
 
+  {% if page.images %}
   <div class="col-sm-4">
   {% for i in page.images %}
+
+  {% assign magicNumber = i.size  %}
+  {% assign remain = magicNumber | modulo: 5 %}
+{% comment %}
+<h1>magicNumber = {{ magicNumber }} - remain = {{ remain | inspect }}</h1>
+{% endcomment %}
+
   {% assign pageYear = page.date | date: "%Y" %}
   <div class="col-sm-12">
-    <figure class="thumbnail rot1">
+    <figure class="thumbnail rot{{ remain }}">
       <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ i }}.jpg" alt="{{ page.title }}" class="img-responsive">
     </figure>
   </div>
   {% endfor %}
   </div>
+  {% endif %}
+
 
   <div class="col-sm-8">
     <h1 class="page-header">
@@ -26,12 +36,14 @@ layout: default
     {{ content }}
   </div>
 
-    {% for doc in page.docs %}
+{% if page.docs %}
+  {% for doc in page.docs %}
   <div class="col-sm-8">
     <a href="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ doc }}.jpg">
       <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ doc }}.jpg" alt="{{ page.title }}" class="img-responsive">
     </a>
   </div>
-    {% endfor %}
+  {% endfor %}
+{% endif %}
 
 </div>

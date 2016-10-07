@@ -63,6 +63,19 @@ defaults:
       layout: post
       permalink: /actualite/:year/:slug/
 
+  -
+    scope:
+      type: posts
+      path: _posts/evenements
+    values:
+      categories: evenements
+  -
+    scope:
+      type: posts
+      path: _posts/rapports
+    values:
+      categories: rapports
+
 paginate: 20
 paginate_path: "/actualite/page:num"
 
@@ -207,6 +220,7 @@ admin:
        - slug
        - tags
        - categories
+       - docs
 
       noDisplayProps:
        - path
