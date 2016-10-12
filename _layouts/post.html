@@ -4,7 +4,9 @@ layout: default
 {% assign pageYear = page.date | date: "%Y" %}
 <div class="row">
 
-  <div class="col-sm-4">{% if page.images %}
+  <div class="col-sm-4">
+
+  {% if page.images %}
     {% for i in page.images %}
       {% assign magicNumber = site.rotation-classes.size  %}
       {% assign remain = forloop.index0 | modulo: magicNumber %}
@@ -21,7 +23,35 @@ layout: default
           <img src="{{ site.baseurl }}/img/logo-lezarts-humanitaire-2010.jpg" alt="Logo LéZarts Humanitaire" class="img-responsive">
         </figure>
       </div>
-  {% endif %}</div>
+  {% endif %}
+
+    {% for category in page.categories %}
+      {% assign categoryArticles = site.categories[category] %}
+      {% assign selectedPosts = "" | split: "/" %}
+      {% for article in categoryArticles limit: 6 %}
+        {% if article.url != page.url %}
+          {% assign selectedPosts = selectedPosts | push: article %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+
+    {% if selectedPosts.size > 0 %}
+      {% for category in page.categories %}
+      <div class="col-sm-12">
+        <h4>Articles dans la catégorie : {{ category }}</h4>
+        {% assign categoryArticles = site.categories[category] %}
+        <ul>
+        {% for article in categoryArticles limit: 6 %}
+          {% if article.url != page.url %}
+          <li><a href="{{ site.baseurl }}/{{ article.url }}">{{ article.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    {% endif %}
+
+  </div>
 
   <div class="col-sm-8">
     <h1 class="page-header">
