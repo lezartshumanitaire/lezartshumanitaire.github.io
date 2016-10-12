@@ -1,28 +1,27 @@
 ---
 layout: default
 ---
+{% assign pageYear = page.date | date: "%Y" %}
 <div class="row">
 
-  {% if page.images %}
-  <div class="col-sm-4">
-  {% for i in page.images %}
-
-  {% assign magicNumber = i.size  %}
-  {% assign remain = magicNumber | modulo: 5 %}
-{% comment %}
-<h1>magicNumber = {{ magicNumber }} - remain = {{ remain | inspect }}</h1>
-{% endcomment %}
-
-  {% assign pageYear = page.date | date: "%Y" %}
-  <div class="col-sm-12">
-    <figure class="thumbnail rot{{ remain }}">
-      <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ i }}.jpg" alt="{{ page.title }}" class="img-responsive">
-    </figure>
-  </div>
-  {% endfor %}
-  </div>
-  {% endif %}
-
+  <div class="col-sm-4">{% if page.images %}
+    {% for i in page.images %}
+      {% assign magicNumber = site.rotation-classes.size  %}
+      {% assign remain = forloop.index0 | modulo: magicNumber %}
+      {% assign figureClass = site.rotation-classes[remain] %}
+      <div class="col-sm-12">
+        <figure class="thumbnail {{ figureClass }}">
+          <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ i }}.jpg" alt="{{ page.title }}" class="img-responsive">
+        </figure>
+      </div>
+    {% endfor %}
+  {% else %}
+      <div class="col-sm-12">
+        <figure class="thumbnail rot1">
+          <img src="{{ site.baseurl }}/img/logo-lezarts-humanitaire-2010.jpg" alt="Logo LéZarts Humanitaire" class="img-responsive">
+        </figure>
+      </div>
+  {% endif %}</div>
 
   <div class="col-sm-8">
     <h1 class="page-header">
@@ -34,16 +33,15 @@ layout: default
     {% include post-date.html post=page %}
     {% include post-categories.html post=page %}
     {{ content }}
+    {% if page.documents %}
+      {% for doc in page.documents %}
+      <div class="col-sm-12"><figure class="thumbnail">
+        <a href="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ doc }}.jpg">
+          <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ doc }}.jpg" alt="{{ page.title }}" class="img-responsive">
+        </a>
+      </figure></div>
+      {% endfor %}
+    {% endif %}
   </div>
-
-{% if page.docs %}
-  {% for doc in page.docs %}
-  <div class="col-sm-8">
-    <a href="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ doc }}.jpg">
-      <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ doc }}.jpg" alt="{{ page.title }}" class="img-responsive">
-    </a>
-  </div>
-  {% endfor %}
-{% endif %}
 
 </div>

@@ -193,6 +193,8 @@ rotation-classes:
   - rot2
   - tor3
 
+
+
 # ++++++++++++++++++++++ admin view page setup +++++++++++++++++++++++
 admin:
   doDebug : true

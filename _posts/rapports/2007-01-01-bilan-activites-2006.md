@@ -1,5 +1,5 @@
 ---
-title: Rapport d'activité 2006
+title: Bilan des activités mises en place en 2006
 
 date: 2007-01-01
 
@@ -19,7 +19,7 @@ authors:
 
 Ces activités connaissent un départ quelque peu chaotique :
 
-- La coopérative féminine, dotée d’un budget de 410 000f cfa 626€ réparti en 3 ateliers :
+- La coopérative féminine, dotée d’un budget de 410 000f cfa (626€) réparti en 3 ateliers :
   - Atelier couture:Après avoir réalisé broderie et bijoux le problème de l’écoulement de la marchandise s’est posé.
   - Boutique alimentaire: Gestion difficile due au manque de savoir et au recours trop important au crédit.
   - Engraissement: Plus adapté aux habitudes et malgré la perte de quelques animaux le bilan de l’atelier reste positif.
