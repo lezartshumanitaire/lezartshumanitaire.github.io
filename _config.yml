@@ -167,6 +167,10 @@ responsive_image:
 # ++++++++++++++++++++++++++++++++++++ Lézarts Humanitaire +++++++++++++++++++++++++++++++++++++++
 #                                      Specific setup
 
+# cfa to euro quotation
+# number of cfa for one euro
+cfa-to-euro: 656
+
 figure:
 
   normal:
