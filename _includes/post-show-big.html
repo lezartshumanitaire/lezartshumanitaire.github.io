@@ -21,7 +21,7 @@
       {% else %}
         {{ post.content | truncate: 100 }}
       {% endif %}
-      <p><a href="{{ site.baseurl }}{{ post.url }}">Lire la suite</a></p>
+      {% include utils/read-more.html %}
     </div>
   </div>
 </div>
