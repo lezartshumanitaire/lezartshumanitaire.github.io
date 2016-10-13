@@ -27,19 +27,12 @@ weight: 20
 <div class="row">
 
     <h2>Historique</h2>
+{% assign sortedHistory = site.historique | sort: "creation" %}
 
-{% for item in site.historique %}
+{% for item in sortedHistory %}
 <div class="col-sm-6">
 <h3>{{ item.title }}</h3>
-{% comment %}
 
-title: Projet Dan Marké 2002
-creation: 2002/01/01
-livraison: 2003/01/01
-cout: 1000
-actif: false
-authors: ptk
-{% endcomment %}
 <ul class="list-unstyled">
   {% if item.creation and item.livraison %}<li>Période : du {{ item.creation | date:"%d/%m/%Y" }} au {{ item.livraison | date:"%d/%m/%Y" }}</li>
   {% elsif item.creation %}<li>Date : {{ item.creation | date:"%d/%m/%Y" }}</li>{% endif %}
@@ -56,7 +49,7 @@ authors: ptk
   <li>{{ r }} : {{ responsables }}</li>
 </ul>
 
-{{ item.content }}
+{{ item.excerpt }}
 </div>
 
 {% endfor %}

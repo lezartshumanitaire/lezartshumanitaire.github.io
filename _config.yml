@@ -250,6 +250,16 @@ admin:
        - relative_path
        - permalink
 
-
-
-
+    historique:
+      displayProps:
+      noDisplayProps:
+        - id
+        - content
+        - output
+        - collection
+        - path
+        - relative_path
+        - previous
+        - next
+        - draft
+        -
