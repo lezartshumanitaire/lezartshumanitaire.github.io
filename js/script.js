@@ -26,7 +26,9 @@ $(function() {
   }
 });
 
-{% if jekyll.environment == 'production' and site.google_analytics %}
+// jekyll.environment = {{ jekyll.environment }}
+// site.site.google_analytics_tracking_id = {{ site.google_analytics_tracking_id }}
+{% if jekyll.environment == 'production' and site.google_analytics_tracking_id %}
   // GOOGLE ANALYTICS CODE
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
