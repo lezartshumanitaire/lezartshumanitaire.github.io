@@ -16,7 +16,7 @@ language: fr
 logoImage: logo-lezarts-humanitaire-optim.svg
 titleImage: titre-lezarts-humanitaire-optim.svg
 
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-86150967-1
 
 timezone: "Europe/Paris"
 
