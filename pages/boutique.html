@@ -5,5 +5,32 @@ weight: 40
 ---
 
 <div class="row">
-  <p>Boutique</p>
+  <div class="col-xs-12">
+    <p class="alert alert-success">Si vous souhaitez commander sur notre site, vous pouvez télécharger le bon de commande en cliquant ici : <a href="{{ site.baseurl }}/documents/bon-de-comande-lezarts-humanitaire-2016.pdf">Bon de commande</a>.</p>
+  </div>
+</div>
+
+<div class="row">
+{% assign items = site.boutique %}
+{% for item in items %}
+  <div class="col-md-4">
+    <h3>{{ item.title }}</h3>
+    <p>prix : {{ item.prix }}</p>
+    {{ item.content }}
+  </div>
+  <div class="col-md-8">
+  {% if item.images %}
+    {% for i in item.images %}
+      <div class="col-xs-12">
+        <img src="{{ site.baseurl }}/img/boutique/{{ i }}.jpg" alt="{{ item.title }}">
+      </div>
+    {% endfor %}
+  {% endif %}
+  {% if item.video %}
+  <div class="col-md-8 embed-responsive embed-responsive-16by9">
+    <iframe  class="embed-responsive-item" src="https://www.youtube.com/embed/{{ item.video }}" frameborder="0" allowfullscreen></iframe>
+  </div>
+  {% endif %}
+  </div>
+{% endfor %}
 </div>

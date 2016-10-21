@@ -27,7 +27,7 @@ weight: 20
 <div class="row">
 
     <h2>Historique</h2>
-{% assign sortedHistory = site.historique | sort: "creation" %}
+{% assign sortedHistory = site.projects | where: "actif", true | sort: "creation" %}
 
 {% for item in sortedHistory %}
 <div class="col-sm-6">

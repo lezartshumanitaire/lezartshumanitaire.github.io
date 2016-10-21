@@ -1,8 +1,17 @@
 {% comment %}
 This code is crap ! Need a good refactor.
+
 {% endcomment %}
 
 {% assign objectType = include.objectType %}
+
+{% if objectType == "pages" %}
+  {% comment %}
+  Assign things here
+  {% endcomment %}
+{% elsif objectType == "collection" %}
+  {% assign collectionName = include.collectionName %}
+{% endif %}
 
 {% comment %} +++++ Verifies that 'objectType' is a valid type +++++ {% endcomment %}
 {% comment %} +++++ Get available content types from config +++++ {% endcomment %}

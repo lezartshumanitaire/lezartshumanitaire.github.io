@@ -9,6 +9,8 @@ emails:
 baseurl: ""
 url: "http://www.lezartshumanitaire.com/"
 
+facebookUrl: "https://www.facebook.com/pages/L%C3%A9zArts-Humanitaire/918849328136371"
+
 language: fr
 
 logoImage: logo-lezarts-humanitaire-optim.svg
@@ -35,7 +37,10 @@ authors:
     fonction: Directeur de l'école de Tagayène
 
 collections:
-  historique:
+  projects:
+    output: false
+
+  boutique:
     output: false
 
 defaults:
@@ -250,7 +255,7 @@ admin:
        - relative_path
        - permalink
 
-    historique:
+    projects:
       displayProps:
       noDisplayProps:
         - id

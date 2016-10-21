@@ -11,9 +11,11 @@ layout: default
       {% assign magicNumber = site.rotation-classes.size  %}
       {% assign remain = forloop.index0 | modulo: magicNumber %}
       {% assign figureClass = site.rotation-classes[remain] %}
-      <div class="col-sm-12">
+      <div class="col-sm-12 post-images">
         <figure class="thumbnail {{ figureClass }}">
-          <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ i }}.jpg" alt="{{ page.title }}" class="img-responsive">
+          <a href="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ i }}.jpg">
+            <img src="{{ site.baseurl }}/img/actualite/{{ pageYear }}/{{ i }}.jpg" alt="{{ page.title }}" class="img-responsive">
+          </a>
         </figure>
       </div>
     {% endfor %}
@@ -43,7 +45,7 @@ layout: default
         <ul>
         {% for article in categoryArticles limit: 6 %}
           {% if article.url != page.url %}
-          <li><a href="{{ site.baseurl }}/{{ article.url }}">{{ article.title }}</a></li>
+          <li><a href="{{ site.baseurl }}{{ article.url }}">{{ article.title }}</a></li>
           {% endif %}
         {% endfor %}
         </ul>

@@ -94,7 +94,7 @@ Situé à une quinzaine de Km de Dilafata, le village de Tatis a reçu suffisamm
 
 ### Tagayet
 
-Village d'où est parti le projet (voir Que devient le LéZarts Humanitaire 2005-2006-[2007]({% post_url 2005-08-01-que-devient-lezarts-humanitaire-2007 %})) : nous y sommes très attachés.
+Village d'où est parti le projet (voir Que devient le LéZarts Humanitaire 2005-2006-[2007]({% post_url 2007-08-01-que-devient-lezarts-humanitaire-2007 %})) : nous y sommes très attachés.
 Rencontre avec les villageois et les membres de l' ONG Aourindé qui nous expriment leurs grosses difficultés causées par l'absence de pluie. Tous les gros animaux sont remontés vers le nord.
 Deux nouveaux instituteurs ont été nommés, le directeur m'assure que les premiers élèves de CM2, selon leurs résultats en juin, partiront au collège à Abalak pour la rentrée.
 Une très bonne nouvelle mais aussi un nouveau souci pour le suite. Les collèges ne disposent pas d'internat et pas de pied-à-terre pour les familles peuls (une situation nouvelle que nous avons décidé d'entrevoir avec les parents).

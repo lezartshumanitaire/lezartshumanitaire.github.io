@@ -1,7 +1,7 @@
 ---
 title: Que devient LézArts Humanitaire 2007
 
-date: 2007-05-01
+date: 2007-08-01
 
 # images d'illustration
 # la première image de la liste est utilisée comme illustration de l'article dans les pages de listing.

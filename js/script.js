@@ -37,3 +37,15 @@ $(function() {
   ga('create', '{{ site.google_analytics_tracking_id }}', 'auto');
   ga('send', 'pageview');
 {% endif %}
+
+
+
+$(document).ready(function() {
+  $('.post-images').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    gallery:{
+      enabled:true
+    }
+  });
+});
