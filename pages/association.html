@@ -24,35 +24,28 @@ weight: 20
 
 </div>
 
-<div class="row">
+<div class="row timeline">
 
-    <h2>Historique</h2>
-{% assign sortedHistory = site.projects | where: "actif", true | sort: "creation" %}
-
-{% for item in sortedHistory %}
-<div class="col-sm-6">
-<h3>{{ item.title }}</h3>
-
-<ul class="list-unstyled">
-  {% if item.creation and item.livraison %}<li>Période : du {{ item.creation | date:"%d/%m/%Y" }} au {{ item.livraison | date:"%d/%m/%Y" }}</li>
-  {% elsif item.creation %}<li>Date : {{ item.creation | date:"%d/%m/%Y" }}</li>{% endif %}
-
-  {% if item.cout %}<li>Coût : {{ item.cout }} €</li>{% endif %}
-  {% if item.actif == true %}<li>Project toujours en activité</li>{% else %}<li>Projet terminé</li>{% endif %}
-
-  {% capture responsables %}{% include post-authors.html post=item style="short" %}{% endcapture %}
-  {% if responsables contains ", " %}
-  {% assign r = "responsables" %}
-  {% else %}
-  {% assign r = "responsable" %}
-  {% endif %}
-  <li>{{ r }} : {{ responsables }}</li>
-</ul>
-
-{{ item.excerpt }}
-</div>
-
-{% endfor %}
+  <h2>Historique</h2>
+  {% assign sortedHistory = site.history | sort: "year" %}
+  {% for item in sortedHistory %}
+    {% assign remain = forloop.index | modulo: 2 %}
+    {% if remain == 0 %}
+      {% assign rowClass = "success" %}
+    {% else %}
+      {% assign rowClass = "info" %}
+    {% endif %}
+    <div class="yearRow clearfix alert alert-{{ rowClass }}">
+      <div class="col-sm-2 col-sm-offset-2 year">
+        <div class="">
+          <h3 class="">{{ item.year }}</h3>
+        </div>
+      </div>
+      <div class="col-sm-6 yearContent">
+        {{ item.content }}
+      </div>
+    </div>
+  {% endfor %}
 
 </div>
 

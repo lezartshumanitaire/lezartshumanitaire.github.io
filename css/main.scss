@@ -35,23 +35,17 @@ $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
 // Palette color codes
 // Palette URL: http://paletton.com/#uid=7001q0kprxqftKLkMCFvpu8wdmZ
 
-$color-primary: #E05206;
-.color-primary{ background: $color-primary; }
-
-$color-secondary-1: #0DB02B;
-.color-secondary-1{ background: $color-secondary-1; }
-
-$color-secondary-2: #0F4D92;
-.color-secondary-2{ background: $color-secondary-2; }
-
-$color-complement: #FFDC34;
-.color-complement{ background: $color-complement; }
-
-$brand-primary:         $color-primary !default; // bleu
-$brand-success:         $color-secondary-1 !default; // vert menthe
-$brand-info:            $color-secondary-2 !default; // bleu petrol
-$brand-warning:         $color-complement !default; // vieil orange
+$brand-primary:         #E05206 !default; // bleu
+$brand-success:         #0DB02B !default; // vert menthe
+$brand-info:            #0F4D92 !default; // bleu petrol
+$brand-warning:         #FFDC34 !default; // vieil orange
 $brand-danger:          #710c34 !default; // casis clair
+
+.color-primary{ background: $brand-primary; }
+.color-success{ background: $brand-success; }
+.color-info{ background: $brand-info; }
+.color-warning{ background: $brand-warning; }
+.color-danger{ background: $brand-danger; }
 
 //== Scaffolding
 //
@@ -1216,3 +1210,11 @@ blockquote{
 .video-container iframe{
 
 }
+
+.timeline{}
+.yearRow{
+  h3{
+    margin: 0;
+  }
+}
+
