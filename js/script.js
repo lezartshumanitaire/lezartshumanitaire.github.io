@@ -50,3 +50,24 @@ $(document).ready(function() {
     }
   });
 });
+
+
+
+
+if ($(".windowWidth").length) {
+  $(window).resize(function() {
+    printWidth();
+  });
+
+  $(document).ready(function() {
+    printWidth();
+  });
+
+  function printWidth(){
+    const width = window.innerWidth
+                || document.documentElement.clientWidth
+                || document.body.clientWidth;
+    const widthString = "width :" + width + "px";
+    $(".windowWidth").text(widthString);
+  }
+}

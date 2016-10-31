@@ -12,7 +12,7 @@ images:
 
 # liste des documents à insérer après l'article
 documents:
-  - rapport 2015
+  - rapport2015
 
 # liste des auteurs de l'article
 # voir liste dans _config.yml entrée authors

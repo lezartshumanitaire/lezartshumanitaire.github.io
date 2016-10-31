@@ -1,3 +1,5 @@
-## code for lezarts-humanitaires.fr
+## code for Lézarts Humanitaire NGO website
 
-Work in progress
+This site is available at [lezarts-humanitaires.com](http://lezarts-humanitaires.com)
+
+This code is under MIT license. Feel free to use and contribute.

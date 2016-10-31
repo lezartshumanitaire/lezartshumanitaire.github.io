@@ -2,10 +2,14 @@
 <html lang="{{ site.language }}">
   {% include head.html %}
   <body role="document">
+
     {% include header.html %}
+
     <div class="container main" role="main" id="main">
 
-    {% comment %}{% include utils/responsive-classes.html %}{% endcomment %}
+    {% comment %}
+    {% include utils/responsive-classes.html %}
+    {% endcomment %}
 
     {{ content }}
     </div>

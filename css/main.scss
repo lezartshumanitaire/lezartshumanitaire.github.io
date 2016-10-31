@@ -30,16 +30,11 @@ $gray:                   lighten($gray-base, 33.5%) !default; // #555
 $gray-light:             lighten($gray-base, 46.7%) !default; // #777
 $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
 
-// SASS style sheet
-
-// Palette color codes
-// Palette URL: http://paletton.com/#uid=7001q0kprxqftKLkMCFvpu8wdmZ
-
-$brand-primary:         #E05206 !default; // bleu
-$brand-success:         #0DB02B !default; // vert menthe
+$brand-primary:         #E05206 !default; // orange lézard
+$brand-success:         #0DB02B !default; // vert
 $brand-info:            #0F4D92 !default; // bleu petrol
-$brand-warning:         #FFDC34 !default; // vieil orange
-$brand-danger:          #710c34 !default; // casis clair
+$brand-warning:         #FFDC34 !default; // vieu jaune
+$brand-danger:          #710c34 !default; // violet
 
 .color-primary{ background: $brand-primary; }
 .color-success{ background: $brand-success; }
@@ -955,7 +950,7 @@ figure{
 }
 
 .container.main {
-    padding-top: 10px;
+    padding-top: 30px;
 }
 
 

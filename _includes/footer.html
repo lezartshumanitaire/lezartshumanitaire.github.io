@@ -2,6 +2,7 @@
 
 <div class="container">
   <footer class="footer row">
+
     <div class="col-xs-2 hidden-xs">
       <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/{{ site.logoImage }}" alt="Ong Lezarts Humanitaire" class="img-responsive"></a>
     </div>
@@ -17,6 +18,12 @@
       </ul>
     </div>
 
+    <div class="col-xs-4">
+      <p>Retrouvez-nous aussi sur <a href="{{ site.facebookUrl }}">Facebook
+      <img src="{{ site.baseurl }}/img/facebook.svg" alt="Logo Facebook" width="20">
+      </a>.</p>
+    </div>
+
     <div class="{{ colClasses }}">
     {% assign footerPages = site.pages | where: "menu", "footer" %}
       <ul class="list-inline">
@@ -26,5 +33,6 @@
       <li class="text-muted">&copy; {{site.title}} 2016</li>
       </ul>
     </div>
+
   </footer>
 </div>
