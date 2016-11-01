@@ -1,6 +1,6 @@
 ---
 title: "Refonte du site Lézarts Humanitaire"
-date:   2016-09-26 11:13:46 +0100
+date:   2016-10-31
 # images d'illustration
 # la première image de la liste est utilisée comme illustration de l'article dans les pages de listing.
 images:

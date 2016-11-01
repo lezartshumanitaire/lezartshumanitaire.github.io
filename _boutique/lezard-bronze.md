@@ -6,4 +6,7 @@ images:
   - lezard-bronze-02
 ---
 
-Description lézard bronze
+Bronze à la cire perdue réalisé au Ghana.
+
+Dimensions : h 8,5cm x l 14,5cm
+poids : 160grs
