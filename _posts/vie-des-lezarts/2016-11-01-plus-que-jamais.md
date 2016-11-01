@@ -20,7 +20,7 @@ categories:
 
 Plus que jamais, les enfants du Niger ont besoin d'aide.
 
-Les aléas climatiques de cette année, mais aussi l'instabilité croissante de la région subsaharienne rendent la vie des peuls plus difficile que jamais.
+Les aléas climatiques de cette année, mais aussi l'instabilité croissante de la région sahélienne rendent la vie des peuls plus difficile que jamais.
 
 La refonte de notre site internet est l'une de nos actions prévues pour 2017. Actions qui vont nous permettre de relever, de nouveau, le chalenge qui est le notre : permettre aux enfants peuls de suivre une scolarité "normale" et ne plus être des oubliés du progrès.
 
