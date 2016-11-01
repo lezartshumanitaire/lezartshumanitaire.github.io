@@ -1,5 +1,5 @@
 ---
-title: "Refonte du site Lézarts Humanitaire"
+title: "Plus que jamais ..."
 date:   2016-10-31
 # images d'illustration
 # la première image de la liste est utilisée comme illustration de l'article dans les pages de listing.
@@ -9,7 +9,7 @@ images:
 # liste des auteurs de l'article
 # voir liste dans _config.yml entrée authors
 authors:
- - dj
+ - ptk
 
 # categories du post
 # voir liste des catégories dans la documentation rédacteur
@@ -30,8 +30,9 @@ Nous allons donc, en 2017, déployer encore plus d'énergie pour récolter des d
 
 Les actions prévues sont :
 
-- le lancement d'une grande campagne de financement collaboratif
-- l'organisation d'une manifestation culturelle
-- l'ouverture d'une boutique en ligne
+- le lancement d'une grande campagne de financement collaboratif,
+- l'organisation d'une manifestation culturelle,
+- l'ouverture d'une boutique en ligne.
+
 
 Plus que jamais nous avons besoin de vous.
