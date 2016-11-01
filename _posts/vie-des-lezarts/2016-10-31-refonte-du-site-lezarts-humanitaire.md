@@ -9,7 +9,7 @@ images:
 # liste des auteurs de l'article
 # voir liste dans _config.yml entrée authors
 authors:
- - ptk
+ - dj
 
 # categories du post
 # voir liste des catégories dans la documentation rédacteur
@@ -18,18 +18,20 @@ categories:
 
 ---
 
-dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Plus que jamais, les enfants du Niger ont besoin d'aide.
+
+Les aléas climatiques de cette année, mais aussi l'instabilité croissante de la région subsaharienne rendent la vie des peuls plus difficile que jamais.
+
+La refonte de notre site internet est l'une de nos actions prévues pour 2017. Actions qui vont nous permettre de relever, de nouveau, le chalenge qui est le notre : permettre aux enfants peuls de suivre une scolarité "normale" et ne plus être des oubliés du progrès.
 
 <!--more-->
 
-## Header 2
+Nous allons donc, en 2017, déployer encore plus d'énergie pour récolter des dons.
 
-Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.
+Les actions prévues sont :
 
-- Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.
-- Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.
-- Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
+- le lancement d'une grande campagne de financement collaboratif
+- l'organisation d'une manifestation culturelle
+- l'ouverture d'une boutique en ligne
 
-### Header 3
-
-Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam
+Plus que jamais nous avons besoin de vous.

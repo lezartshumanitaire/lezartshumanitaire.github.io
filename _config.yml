@@ -26,10 +26,10 @@ authors:
     nom: Baumann
     fonction: Président Lézarts Humanitaire France
 
-  - id: admin
+  - id: dj
     prenom: David
     nom: Jacquel
-    fonction: Administrateur du site
+    fonction: Lézard
 
   - id: issoufou
     prenom: Issoufou
