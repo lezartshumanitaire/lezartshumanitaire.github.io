@@ -67,7 +67,7 @@ des plus fastidieuses. Ceci nous a obligé, pendant toute la durée du chantier,
 ### Suivi des projets antérieurs
 
 Profitant de la disponibilité du véhicule pendant quelques jours, nous avons commencé une visite des différents sites sur lesquels LH a construit des écoles et mis en place des activités.
-Après une visite auprès de l'inspecteur d'académie qui nous a confirmé que tous les instituteurs avaient reçu une affectation différente, suite aux grèves de l'année passée, nous nous demandions où en était le travail d'accompagnement déjà engagé (voir [Que devient le LéZarts Humanitaire 2008-2009]({% post_url 2009-05-01-que-devient-lezarts-humanitaire-2009 %})).
+Après une visite auprès de l'inspecteur d'académie qui nous a confirmé que tous les instituteurs avaient reçu une affectation différente, suite aux grèves de l'année passée, nous nous demandions où en était le travail d'accompagnement déjà engagé (voir [Que devient le LéZarts Humanitaire 2008-2009]({% post_url /rapports/2009-05-01-que-devient-lezarts-humanitaire-2009 %})).
 
 Par la suite, nous avons pu constater que certains instituteurs sont partis en emportant une partie des manuels, que l'aide apportée pour l'achat des motos profitera ailleurs, etc... mais je ne m'étendrai pas sur le sujet.
 L'inspecteur a aussi constaté que nous n'avions pas reçu un témoignage de satisfaction, diplôme délivré par l'état pour toute personne ou association qui s'investit bénévolement dans l'aide au développement (nous attendons !).
@@ -89,12 +89,12 @@ Aurore s'est chargée d'apporter le pulvérisateur. Les attaques étaient déjà
 ### Tatis
 
 Rencontre avec le nouvel instituteur, pas satisfait de l'aide que lui apporte la population (eau mais surtout bois de cuisine). Une deuxième institutrice a été nommée pour s'occuper des petites classes. Manque maintenant, une salle de classe comme à Dilafata.
-De nouvelles maisons sont apparues (voir [Que devient le LéZarts Humanitaire 2009]({% post_url 2009-05-01-que-devient-lezarts-humanitaire-2009 %})).
+De nouvelles maisons sont apparues (voir [Que devient le LéZarts Humanitaire 2009]({% post_url /rapports/2009-05-01-que-devient-lezarts-humanitaire-2009 %})).
 Situé à une quinzaine de Km de Dilafata, le village de Tatis a reçu suffisamment de pluie pour faire pousser l'herbe. L'année passée, nous avions déjà conforté la coopérative des femmes, cette année nous avons renouvelé notre don (75 euros).
 
 ### Tagayet
 
-Village d'où est parti le projet (voir Que devient le LéZarts Humanitaire 2005-2006-[2007]({% post_url 2007-08-01-que-devient-lezarts-humanitaire-2007 %})) : nous y sommes très attachés.
+Village d'où est parti le projet (voir Que devient le LéZarts Humanitaire 2005-2006-[2007]({% post_url /rapports/2007-08-01-que-devient-lezarts-humanitaire-2007 %})) : nous y sommes très attachés.
 Rencontre avec les villageois et les membres de l' ONG Aourindé qui nous expriment leurs grosses difficultés causées par l'absence de pluie. Tous les gros animaux sont remontés vers le nord.
 Deux nouveaux instituteurs ont été nommés, le directeur m'assure que les premiers élèves de CM2, selon leurs résultats en juin, partiront au collège à Abalak pour la rentrée.
 Une très bonne nouvelle mais aussi un nouveau souci pour le suite. Les collèges ne disposent pas d'internat et pas de pied-à-terre pour les familles peuls (une situation nouvelle que nous avons décidé d'entrevoir avec les parents).
