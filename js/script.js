@@ -26,32 +26,18 @@ $(function() {
   }
 });
 
-// jekyll.environment = {{ jekyll.environment }}
-// site.site.google_analytics_tracking_id = {{ site.google_analytics_tracking_id }}
-{% if jekyll.environment == 'production' and site.google_analytics_tracking_id %}
-  // GOOGLE ANALYTICS CODE
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', '{{ site.google_analytics_tracking_id }}', 'auto');
-  ga('send', 'pageview');
-{% endif %}
+// GOOGLE ANALYTICS CODE >> moved to _includes/head.hmtl
 
 
-
-$(document).ready(function() {
-  $('.post-images').magnificPopup({
-    delegate: 'a',
-    type: 'image',
-    gallery:{
-      enabled:true
-    }
-  });
-});
-
-
+// $(document).ready(function() {
+//   $('.post-images').magnificPopup({
+//     delegate: 'a',
+//     type: 'image',
+//     gallery:{
+//       enabled:true
+//     }
+//   });
+// });
 
 
 if ($(".windowWidth").length) {

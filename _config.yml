@@ -9,14 +9,13 @@ emails:
 baseurl: ""
 url: "http://www.lezartshumanitaire.com"
 
-facebookUrl: "https://www.facebook.com/pages/L%C3%A9zArts-Humanitaire/918849328136371"
-
 language: fr
 
 logoImage: logo-lezarts-humanitaire-optim.svg
 titleImage: titre-lezarts-humanitaire-optim.svg
 
 google_analytics_tracking_id: UA-86150967-1
+facebookUrl: "https://www.facebook.com/pages/L%C3%A9zArts-Humanitaire/918849328136371"
 
 timezone: "Europe/Paris"
 
