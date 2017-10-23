@@ -27,4 +27,4 @@ authors:
 
 ---
 
-Voici le projet de financement 2017-2018, par le Directeur de l'école de Tagayède, Monsieur Issoufou Salifou.
+Voici le projet de financement 2017-2018, par le Directeur de l'école de Tagayet, Monsieur Issoufou Salifou.
