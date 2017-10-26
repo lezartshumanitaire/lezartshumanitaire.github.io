@@ -27,783 +27,836 @@ authors:
 
 ---
 
-<h2 class="western" align="center">
-Rapport du projet de financement
-<br/>des besoins de 48 élèves Peulh Bororos
-<br/>de Tatiss, Dilafata et Tagayène pour
-<br/>l’année scolaire 2017-2018.</h2>
 
+<h1 class="western" align="center" style="text-indent: 0cm; line-height: 100%">
+  <font color="#000000"><font face="Arimo, serif"><font size="4" style="font-size: 14pt">Rapport
+  du projet de financement des besoins de 48 élèves<br/>
+Peuhl
+  Bororos de Tatiss, Dilafata et Tagayène pour<br/>
+l’année
+  scolaire 2017-2018.</font></font></font></h1>
+
+<p align="center" style="margin-bottom: 0.28cm; line-height: 100%"><br/>
+<br/>
+
+</p>
 <ol type="I">
   <li/>
-<p ><u>Introduction</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Introduction</u></font></font></font></p>
 </ol>
-<p >Pour
+<p align="justify" style="margin-bottom: 0.28cm; line-height: 106%"><a name="_v3hyuq11ko7w"></a>
+<font face="Arimo, serif"><font size="2" style="font-size: 10pt">Pour
 l’année scolaire 2017-2018 l’effectif est de 48 élèves
-repartis comme suit: Ecole de formation d’instituteur (2 élèves);
-collège d’enseignement général (34 élèves) et lycée
-d’enseignement général (12 élèves). Dans cet effectif nous
-avons 7 nouveaux élèves d’entrée en
-6<sup>ème</sup>
-et nous aurons 8 candidats au B.E.P.C et 2 candidats au B.A.C série
-pour la session de juillet 2018. Quant aux 2 élèves de Tahoua, ils
-achèveront leur formation cette année.</p>
+répartis comme suit: </font></font>
+</p>
+<p align="justify" style="margin-bottom: 0.28cm; line-height: 106%"><a name="_yec3xqcpprfj"></a>
+<font face="Arimo, serif"><font size="2" style="font-size: 10pt">-
+Ecole de formation d’instituteurs (2 élèves),</font></font></p>
+<p align="justify" style="margin-bottom: 0.28cm; line-height: 106%"><a name="_pzta5za0xwso"></a>
+<font face="Arimo, serif"><font size="2" style="font-size: 10pt">-
+Collège d’enseignement général (34 élèves),</font></font></p>
+<p align="justify" style="margin-bottom: 0.28cm; line-height: 106%"><a name="_sukfxg6xls2x"></a>
+<font face="Arimo, serif"><font size="2" style="font-size: 10pt">-
+Lycée d’enseignement général (12 élèves). </font></font>
+</p>
+<p align="justify" style="margin-bottom: 0.28cm; line-height: 106%"><a name="_lqagxe4a82x6"></a>
+<font face="Arimo, serif"><font size="2" style="font-size: 10pt">Dans
+cet effectif nous avons 7 nouveaux élèves en 6</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">,
+nous aurons 8 candidats au B.E.P.C et 2 candidats au BAC  pour la
+session de juillet 2018. </font></font>
+</p>
+<p align="justify" style="margin-bottom: 0.28cm; line-height: 106%"><a name="_1flc1ojrfvws"></a>
+<font face="Arimo, serif"><font size="2" style="font-size: 10pt">Quant
+aux 2 élèves de Tahoua, ils achèveront leur formation cette année.</font></font></p>
+<p align="justify" style="margin-bottom: 0.28cm; line-height: 106%"><a name="_gjdgxs"></a>
+<br/>
+<br/>
+
+</p>
 <ol type="I" start="2">
   <li/>
-<p ><u>Les
-  besoins de 12 élèves de lycée: du 15 au 30 septembre</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Les
+  besoins des 12 élèves de lycée: du 15 au 30 septembre</u></font></font></font></p>
 </ol>
-<p >Les
-élèves du lycée sont repartis comme suit:</p>
-<p >Classe
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Les
+élèves du lycée sont répartis comme suit:</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
 de seconde (1 élève), classe de première (9 élèves) et classe de
 Terminale A (2 élèves). Les frais d’inscriptions au CSP sont les
-suivants:</p>
+suivants:</font></font></p>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="286">
   <col width="286">
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Seconde
-      (110.000FcFA *1)</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Seconde
+      (110.000FcFA *1)</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">110.000FcFA</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Première
-      (125.000FcFA *9)</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">1.125.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">110.000FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Terminale
-      (140.000FcFA *2)</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Première
+      (125.000FcFA *9)</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">280.000FcFA</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Frais
-      d’inscriptions de 12 élèves</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">1.515.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">1.125.000FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Nourriture
-      (500F*12) *15 jours</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Terminale
+      (140.000FcFA *2)</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">90.000FcFA</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Loyer
-      15 jours</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">15.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">280.000FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Electricité
-      15 jours</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Frais
+      d’inscriptions de 12 élèves</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">2.000FcFA</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Cuisinière
-      15 jours</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">10.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">1.515.000FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Défraiement
-      des rapports (Directeur)</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Nourriture
+      (500F*12) *15 jours</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">120.000FcFA</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Achat
-      de 2 batteries (645.000FcFA *2)</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">90.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">90.000FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Achat
-      de 2 ondulateurs (30.000FcFA *2)</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Loyer
+      15 jours</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">60.000FcFA</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Couchages
-      pour 7 nouveaux élèves (35.000FcFA *7)</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">245.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">15.000FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Total</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Electricité
+      15 jours</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">2.147.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">2.000FcFA</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Cuisinière
+      15 jours</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10.000FcFA</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Défraiement
+      des rapports (Directeur)</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">120.000FcFA</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Achat
+      de 2 batteries (45.000FcFA *2)</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">90.000FcFA</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Achat
+      de 2 onduleurs (30.000FcFA *2)</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">60.000FcFA</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Couchages
+      pour 7 nouveaux élèves (35.000FcFA *7)</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">245.000FcFA</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Total</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="background: #ffffff">2.147</span></font></font><font face="Arimo, serif"><font size="2" style="font-size: 10pt">.000FcFA</font></font></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><br/>
 Au
-lycée la rentrée 2017 est fixée pour le 15 septembre. Les
-Directeurs des écoles primaires seront dans leur poste à partir du
-15 septembre en vue du préparatif de la rentrée scolaire qui aura
-lieu le 1<sup>er</sup>
+lycée la rentrée 2017 est fixée au 15 septembre. Les Directeurs
+des écoles primaires seront dans leur poste à partir du 15
+septembre en vue des préparatifs de la rentrée scolaire qui aura
+lieu le 1</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">er</font></font></sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">
 octobre 2017 pour les élèves du primaire et du collège. Donc dans
-la mesure du possible le virement de la somme de 2.147.000FcFA soit
-3277 euros devra être effectué à partir
-du 5 septembre 2017 pourvu que l’argent prend une semaine avant de
-parvenir dans le compte de l’école Wodaabe d’Abalak.<br/>
-<br/>
+la mesure du possible le virement de la somme de 2.147.000 FcFA soit
+3277 euros devra être effectué pour le 5 septembre 2017 le virement
+ prend une semaine pour parvenir sur le compte de l’école Wodaabe
+d’Abalak.<br/>
+</font></font><br/>
 <br/>
 
 </p>
 <ol type="I" start="3">
   <li/>
-<p ><u>Les
-  besoins de 48 élèves pour le 1</u><sup><u>er
-  </u></sup><u>trimestre: Oct. – Nov. –
-  Déc. 2017)</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; page-break-after: auto">
+  <span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">Les
+  besoins de 48 élèves pour le 1</span></u></span></font></font></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">er
+  </span></u></span></font></font></sup></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">trimestre:
+  Oct. – Nov. – Déc. 2017)</span></u></span></font></font></span></font></span></p>
 </ol>
 <ol type="a">
   <li/>
-<p ><u>Les
-  besoins de 2 élèves de Tahoua</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Les
+  besoins des 2 élèves de Tahoua</u></font></font></font></p>
 </ol>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="286">
   <col width="286">
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Nourriture
-      (20.000F *2) *3 mois</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Nourriture
+      (20.000F *2) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">120.000
-      FcFA</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Loyer
-      (20.000F) *3 mois</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">60.000
-      FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">120.000
+      FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Electricité
-      (3000F) *3 mois</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Loyer
+      (20.000F) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">9.000
-      FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">60.000
+      FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Total</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Electricité
+      (3000F) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">189.000
-      FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">9.000
+      FcFA</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Total</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">189.000
+      FcFA</font></font></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p align="right" style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
 <ol type="a" start="2">
   <li/>
-<p ><u>Les
-  besoins de 46 élèves du collège et lycée</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Les
+  besoins de 46 élèves du collège et lycée</u></font></font></font></p>
 </ol>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="285">
   <col width="286">
   <tr valign="top">
-    <td width="285" height="5" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Frais
-      d’inscriptions de 34 élèves du collège (90.000F *34)</p>
+    <td width="285" height="5" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Frais
+      d’inscriptions de 34 élèves du collège (90.000F *34)</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">3.060.000FcFA</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="285" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Nourriture
-      (500F *46) *90 jours</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">2.070.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">3.060.000FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="285" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Loyer
-      (35.000F) *3 mois</p>
+    <td width="285" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Nourriture
+      (500F *46) *90 jours</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">105.000FcFA</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="285" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Electricité
-      (5000F)*3 mois</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">15.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">2.070.000FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="285" height="3" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Cuisinière
-      (30.000F)*3 mois</p>
+    <td width="285" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Loyer
+      (35.000F) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">90.000FcFA</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="285" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Cours
-      de soutien (40.000F *3)*3 mois</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">360.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">105.000FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="285" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Caisse
-      médicale d’urgence</p>
+    <td width="285" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Electricité
+      (5000F)*3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">100.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">15.000FcFA</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="285" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Total</p>
+    <td width="285" height="2" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Cuisinière
+      (30.000F)*3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">5.800.000FcFA</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">90.000FcFA</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="285" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Cours
+      de soutien (40.000F *3)*3 mois</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">360.000FcFA</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="285" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Caisse
+      médicale d’urgence</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">100.000FcFA</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="285" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Total</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">5.800.000FcFA</font></font></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
-<p style="margin-bottom: 0.28cm; line-height: 100%">La
-somme totale pour couvrir les besoins de 48 élèves pour le 1<sup>er</sup>
-trimestre (Octobre - Novembre – Décembre 2017) est de
-5.989.000FcFA soit 9.143 euros.</p>
-<p style="margin-bottom: 0.28cm; line-height: 100%">Le
-virement de cette somme devrait être effectué début octobre 2017.</p>
+<p style="margin-bottom: 0.28cm; line-height: 100%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">La
+somme totale pour couvrir les besoins des 48 élèves pour le 1</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">er</font></font></sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">
+trimestre (Octobre - Novembre – Décembre 2017) est de 5.989.000
+FcFA soit 9.143 euros.</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 100%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Le
+virement de cette somme devra être effectué début octobre 2017.</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 100%"><br/>
+<br/>
+
+</p>
 <ol type="I" start="4">
   <li/>
-<p ><u>Les
-  besoins de 48 élèves pour le 2</u><sup><u>ème</u></sup><u>
-  trimestre (Janvier – Février – Mars 2018)</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; page-break-after: auto">
+  <span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">Les
+  besoins de 48 élèves pour le 2</span></u></span></font></font></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">ème</span></u></span></font></font></sup></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">
+  trimestre (Janvier – Février – Mars 2018)</span></u></span></font></font></span></font></span></p>
 </ol>
 <ol type="a">
   <li/>
-<p ><u>Les
-  besoins de 2 élèves de Tahoua</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Les
+  besoins des 2 élèves de Tahoua</u></font></font></font></p>
 </ol>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="286">
   <col width="286">
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Nourriture
-      (20.000F *2) *3 mois</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Nourriture
+      (20.000F *2) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>120.000F</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Loyer
-      (20.000F) *3 mois</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>60.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">120.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Electricité
-      (3000F) *3 mois</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Loyer
+      (20.000F) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>9.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>  <font face="Arimo, serif"><font size="2" style="font-size: 10pt">60.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Total</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Electricité
+      (3000F) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>189.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>    <font face="Arimo, serif"><font size="2" style="font-size: 10pt">9.000F</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Total</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">189.000F</font></font></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
 <ol type="a" start="2">
   <li/>
-<p ><u>les
-  besoins de 46 élèves du collège et lycée</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>les
+  besoins des 46 élèves du collège et lycée</u></font></font></font></p>
 </ol>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="286">
   <col width="286">
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Nourriture
-      (500F *46) *90 jours</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Nourriture
+      (500F *46) *90 jours</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>2.070.000F</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Loyer
-      (35.000F)*3 mois</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>105.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">2.070.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Electricité
-      (5000F) *3mois</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Loyer
+      (35.000F)*3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>15.000F</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Cuisinière
-      (30.000F) *3 mois</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>90.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>   <font face="Arimo, serif"><font size="2" style="font-size: 10pt">105.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Cours
-      de soutien (40.000F *3) *3 mois</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Electricité
+      (5000F) *3mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>360.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>     <font face="Arimo, serif"><font size="2" style="font-size: 10pt">15.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Total</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Cuisinière
+      (30.000F) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>2.640.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>     <font face="Arimo, serif"><font size="2" style="font-size: 10pt">90.000F</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Cours
+      de soutien (40.000F *3) *3 mois</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>   <font face="Arimo, serif"><font size="2" style="font-size: 10pt">360.000F</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Total</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">2.640.000F</font></font></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
-<p >La
-somme totale pour couvrir les besoins de 48 élèves pour le 2<sup>ème</sup>
-trimestre (Janvier – Février – Mars 2018) est de 2.829.000FcFA
-soit 4.319 euros. Le virement de cette somme devrait être effectué
-début janvier 2018.</p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">La
+somme totale pour couvrir les besoins des 48 élèves pour le 2</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">
+trimestre (Janvier – Février – Mars 2018) est de 2.829.000 FcFA
+soit 4.319 euros. Le virement de cette somme devra être effectué
+début janvier 2018.</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
+<br/>
+
+</p>
 <ol type="I" start="5">
   <li/>
-<p ><u>Les
-  besoins de 48 élèves pour le 3</u><sup><u>ème</u></sup><u>
-  trimestre (Avril – Mai -Juin 2018)</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; page-break-after: auto">
+  <span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">Les
+  besoins des 48 élèves pour le 3</span></u></span></font></font></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">ème</span></u></span></font></font></sup></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">
+  trimestre (Avril – Mai -Juin 2018)</span></u></span></font></font></span></font></span></p>
 </ol>
 <ol type="a">
   <li/>
-<p ><u>Les
-  besoins  de 2 élèves de Tahoua</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Les
+  besoins des 2 élèves de Tahoua</u></font></font></font></p>
 </ol>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="286">
   <col width="286">
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Nourriture
-      (20.000F *2)*3 mois</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Nourriture
+      (20.000F *2)*3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>120.000F</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Loyer
-      (20.000F) *3 mois</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>60.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">120.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Electricité
-      (3000F) *3 mois</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Loyer
+      (20.000F) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>9.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>  <font face="Arimo, serif"><font size="2" style="font-size: 10pt">60.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Total</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Electricité
+      (3000F) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>189.00F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>    <font face="Arimo, serif"><font size="2" style="font-size: 10pt">9.000F</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Total</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">189.000F</font></font></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p align="right" style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
 <ol type="a" start="2">
   <li/>
-<p ><u>Les
-  besoins de 46 élèves du collège et lycée</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Les
+  besoins des 46 élèves du collège et lycée</u></font></font></font></p>
 </ol>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="286">
   <col width="286">
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Nourriture
-      (500F *46) *90 jours</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Nourriture
+      (500F *46) *90 jours</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>2.070.000F</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Loyer
-      (35.000F) *3 mois</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>105.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">2.070.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Electricité
-      (5000F) *3 mois</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Loyer
+      (35.000F) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>15.000F</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Cuisinière
-      (30.000F) *3 mois</p>
-    </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>90.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>   <font face="Arimo, serif"><font size="2" style="font-size: 10pt">105.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Cours
-      de soutien (40.000F *3) *3 mois</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Electricité
+      (5000F) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>360.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>     <font face="Arimo, serif"><font size="2" style="font-size: 10pt">15.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Total</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Cuisinière
+      (30.000F) *3 mois</font></font></p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>2.640.000F</p>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>     <font face="Arimo, serif"><font size="2" style="font-size: 10pt">90.000F</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Cours
+      de soutien (40.000F *3) *3 mois</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>   <font face="Arimo, serif"><font size="2" style="font-size: 10pt">360.000F</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Total</font></font></p>
+    </td>
+    <td width="286" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">2.640.000F</font></font></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
-<p >La
-somme totale pour couvrir les besoins de 48 élèves pour le 3<sup>ème</sup>
-trimestre (Avril – Mai – Juin 2018) est de 2.829.000FcFA soit
-4319 euros. Le virement de cette somme devrait être effectué début
-Avril.</p>
-<p >Le
-montant global de l’aide  demandée pour 48 élèves  s’élève
-à: 13.794.000FcFA (Treize millions sept cent quatre-vingt-quatorze
-mille francs CFA) soit 21.059 euros.</p>
-<p >A
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">La
+somme totale pour couvrir les besoins des 48 élèves pour le 3</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">
+trimestre (Avril – Mai – Juin 2018) est de 2.829.000 FcFA soit
+4319 euros. Le virement de cette somme devra  être effectué début
+Avril.</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
+<br/>
+
+</p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Le
+montant global de l’aide demandée pour 48 élèves s’élève à:
+</font></font>
+</p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">13.794.000
+FcFA (Treize millions sept cent quatre-vingt-quatorze mille francs
+CFA) = 21.059 euros.</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">A
 noter que le montant de l’aide pour l’année 2016 -2017
 concernant 41 élèves était de 17.923 euros soit 11.739.565 FcFA.
-Le budget 2017-2018 a connu une augmentation de 2.054.435FcfA soit
-3136 euros. Cela est dû à l’arrivée de 7 nouveaux élève;
-l’augmentation de frais de cours de soutien de 10.000FcFA à cause
-de 10 candidats au B.E.P.C et au B.A.C afin de soutenir ces derniers
-vers la réussite de leurs examens.</p>
-<p ><br/>
-<br/>
-
-</p>
-<p ><u>Participation
-de parents pour 2017 -2018</u></p>
+Le budget 2017-2018 a connu une augmentation de 2.054.435 FcfA soit
+3136 euros. Cela est dû à l’arrivée de 7 nouveaux élèves;
+l’augmentation des frais des cours de soutien de 10.000FcFA à
+cause de 10 candidats au B.E.P.C et au B.A.C afin de soutenir ces
+derniers vers la réussite de leurs examens.</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Participation
+de parents pour 2017 -2018</u></font></font></p>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="186">
   <col width="196">
   <col width="176">
   <tr valign="top">
-    <td width="186" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Petit
-      déjeuner</p>
+    <td width="186" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Petit
+      déjeuner</font></font></p>
     </td>
-    <td width="196" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>(200F*48)
-      *90 jours *3</p>
+    <td width="196" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">(200F*48)
+      *90 jours *3</font></font></p>
     </td>
-    <td width="176" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>2.592.000F</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="186" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Bois
-      de chauffe</p>
-    </td>
-    <td width="196" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>(40.000F)
-      *9 mois</p>
-    </td>
-    <td width="176" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>360.000F</p>
+    <td width="176" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">2.592.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="186" height="5" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Eau</p>
+    <td width="186" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Bois
+      de chauffe</font></font></p>
     </td>
-    <td width="196" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>(2000F*90
-      jours) *3</p>
+    <td width="196" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">(40.000F)
+      *9 mois</font></font></p>
     </td>
-    <td width="176" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>540.000F</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="186" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Tenue
-      de sport</p>
-    </td>
-    <td width="196" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>(5.000F
-      *48)</p>
-    </td>
-    <td width="176" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>240.000F</p>
+    <td width="176" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>   <font face="Arimo, serif"><font size="2" style="font-size: 10pt">360.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="186" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Tenue
-      scolaire</p>
+    <td width="186" height="3" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Eau</font></font></p>
     </td>
-    <td width="196" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>(10.000F
-      *46)</p>
+    <td width="196" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">(2000F*90
+      jours) *3</font></font></p>
     </td>
-    <td width="176" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>460.000F</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="186" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Fourniture
-      et carte scolaire</p>
-    </td>
-    <td width="196" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>(10.000F
-      *48)</p>
-    </td>
-    <td width="176" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>480.000F</p>
+    <td width="176" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>   <font face="Arimo, serif"><font size="2" style="font-size: 10pt">540.000F</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="186" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Total</p>
+    <td width="186" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Tenue
+      de sport</font></font></p>
     </td>
-    <td width="196" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="196" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">(5.000F
+      *48)</font></font></p>
+    </td>
+    <td width="176" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>   <font face="Arimo, serif"><font size="2" style="font-size: 10pt">240.000F</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="186" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Tenue
+      scolaire</font></font></p>
+    </td>
+    <td width="196" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">(10.000F
+      *46)</font></font></p>
+    </td>
+    <td width="176" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>   <font face="Arimo, serif"><font size="2" style="font-size: 10pt">460.000F</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="186" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Fourniture
+      et carte scolaire</font></font></p>
+    </td>
+    <td width="196" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">(10.000F
+      *48)</font></font></p>
+    </td>
+    <td width="176" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p>   <font face="Arimo, serif"><font size="2" style="font-size: 10pt">480.000F</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="186" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Total</font></font></p>
+    </td>
+    <td width="196" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="176" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>4.672.00FcFA</p>
+    <td width="176" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">4.672.00FcFA</font></font></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
-<p >La
-participation des parents pour 48 élèves sera de 4.672.000FcFA soit
-7.132. A noter que pour l’année passée; la participation des
-parents pour 41 élèves était de 6.254 euros soit 4.096.370 FcFA.</p>
-<p ><u>Conclusion</u>:
-
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">La
+participation des parents pour les 48 élèves sera de 4.672.000 FcFA
+soit 7.132 euros. A noter que pour l’année passée; la
+participation des parents pour 41 élèves était de 6.254 euros soit
+4.096.370 FcFA.</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Conclusion</u></font></font><font face="Arimo, serif"><font size="2" style="font-size: 10pt">:
+</font></font>
 </p>
-<p >-
-Le budget total pour l’année 2017 -2018 <br/>
-  de 48 élèves est
-de 18.466.000FcFA soit <b>28.192 euros</b>.</p>
-<ul>
-  <p >-
-  Participation des parents → 4.672.000FcFA soit <b>7.132 euros</b></p>
-  <p >-
-  Montant de l’aide demandée → 13.794.000FcFA soit <b>21.059
-  euros</b></p>
-</ul>
-<p style="margin-bottom: 0.28cm; font-weight: normal"><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">-
+Le budget total pour l’année 2017 -2018 pour les 48 élèves est
+de 18.466.000 FcFA soit </font></font><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><b>28.192
+euros</b></font></font><font face="Arimo, serif"><font size="2" style="font-size: 10pt">.</font></font></p>
+<p align="left" style="margin-left: 1.27cm; margin-bottom: 0.28cm; border: none; padding: 0cm; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; page-break-after: auto">
+<span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">-
+Participation des parents → 4.672.000 FcFA soit </span></span></font></font></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><b>7.132
+euros</b></span></font></font></span></font></span></p>
+<p align="left" style="margin-left: 1.27cm; margin-bottom: 0.28cm; border: none; padding: 0cm; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; page-break-after: auto">
+<span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">-
+Montant de l’aide demandée → 13.794.000 FcFA soit </span></span></font></font></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><b>21.059
+euros</b></span></font></font></span></font></span></p>
+<p align="right" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+<br/>
 <br/>
 
 </p>
-<p ><u>Situation
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Situation
 des élèves par niveau pour l’année scolaire 2017-2018.<br/>
-</u><br/>
+</u></font></font><br/>
 <br/>
 
 </p>
 <ol type="I">
   <li/>
-<p ><u>Les
-  élèves de l’école  normale de Tahoua</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Les
+  élèves de l’école  normale de Tahoua</u></font></font></font></p>
 </ol>
 <table width="602" cellpadding="7" cellspacing="0">
-  <col width="22">
+  <col width="21">
   <col width="250">
   <col width="50">
   <col width="222">
   <tr valign="top">
-    <td width="22" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>N<sup>o</sup></p>
+    <td width="21" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">N</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">o</font></font></sup></p>
     </td>
-    <td width="250" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Nom
-      et Prénom</p>
+    <td width="250" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Nom
+      et Prénom</font></font></p>
     </td>
-    <td width="50" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Sexe</p>
+    <td width="50" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Sexe</font></font></p>
     </td>
-    <td width="222" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Cours
-      à suivre</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="22" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>01</p>
-    </td>
-    <td width="250" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Keïnido
-      Barthi</p>
-    </td>
-    <td width="50" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
-    </td>
-    <td width="222" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>2<sup>ème
-      </sup>année</p>
+    <td width="222" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Cours
+      à suivre</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="22" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>02</p>
+    <td width="21" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">01</font></font></p>
     </td>
-    <td width="250" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Bodejo
-      Doulla</p>
+    <td width="250" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Keïnido
+      Barthi</font></font></p>
     </td>
-    <td width="50" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="50" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
     </td>
-    <td width="222" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>2<sup>ème
-      </sup>année</p>
+    <td width="222" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">2</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème
+      </font></font></sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">année</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="21" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">02</font></font></p>
+    </td>
+    <td width="250" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Bodejo
+      Doulla</font></font></p>
+    </td>
+    <td width="50" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="222" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">2</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème
+      </font></font></sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">année</font></font></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
 <ol type="I" start="2">
   <li/>
-<p ><u>Les
-  élèves du lycée</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Les
+  élèves du lycée</u></font></font></font></p>
 </ol>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="19">
@@ -812,362 +865,358 @@ des élèves par niveau pour l’année scolaire 2017-2018.<br/>
   <col width="102">
   <col width="164">
   <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>N<sup><u>o</u></sup></p>
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">N</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>o</u></font></font></sup></p>
     </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Nom
-      et Prénom</p>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Nom
+      et Prénom</font></font></p>
     </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Sexe</p>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Sexe</font></font></p>
     </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Moyenne</p>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Moyenne</font></font></p>
     </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Cours
-      à suivre</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>01</p>
-    </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Wiyajo
-      Goutta</p>
-    </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>14,
-      20</p>
-    </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Terminale
-      A</p>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Cours
+      à suivre</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>02</p>
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">01</font></font></p>
     </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Azé
-      Doula</p>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Wiyajo
+      Goutta</font></font></p>
     </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      64</p>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">14,
+      20</font></font></p>
     </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Terminale
-      A</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p><br/>
-
-      </p>
-    </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p><br/>
-
-      </p>
-    </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p><br/>
-
-      </p>
-    </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p><br/>
-
-      </p>
-    </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p><br/>
-
-      </p>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Terminale
+      A</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>03</p>
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">02</font></font></p>
     </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Koumandan
-      Barthi</p>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Azé
+      Doula</font></font></p>
     </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      86</p>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      64</font></font></p>
     </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Première
-      A</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>04</p>
-    </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Ramatou
-      Harika</p>
-    </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
-    </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      92</p>
-    </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Première
-      A</p>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Terminale
+      A</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>05</p>
-    </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Djahadi
-      Maoudé</p>
-    </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      75</p>
-    </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Première
-      A</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>06</p>
-    </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Issifou
-      Ibi</p>
-    </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      35</p>
-    </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Première
-      A</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>07</p>
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">03</font></font></p>
     </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Gambo
-      Goutta</p>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Koumandar
+      Barthi</font></font></p>
     </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11,
-      68</p>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      86</font></font></p>
     </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Première
-      C</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>08</p>
-    </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Ahmadou
-      Goundoumboul</p>
-    </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11,
-      74</p>
-    </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Première
-      C</p>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Première
+      A</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>09</p>
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">04</font></font></p>
     </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Koraou
-      Bamwo</p>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Ramatou
+      Harika</font></font></p>
     </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
     </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11,
-      97</p>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      92</font></font></p>
     </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Première
-      C</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10</p>
-    </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Ibrahim
-      Ibi</p>
-    </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      62</p>
-    </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Première
-      C</p>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Première
+      A</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11</p>
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">05</font></font></p>
     </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Waglassane
-      Dingï</p>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Djahadi
+      Maoudé</font></font></p>
     </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11,
-      13</p>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      75</font></font></p>
     </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Première
-      A</p>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Première
+      A</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">06</font></font></p>
+    </td>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Issifou
+      Ibi</font></font></p>
+    </td>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      35</font></font></p>
+    </td>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Première
+      A</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>12</p>
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">07</font></font></p>
     </td>
-    <td width="192" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Kemey
-      Guidé</p>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Gambo
+      Goutta</font></font></p>
     </td>
-    <td width="52" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="102" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>12,
-      08</p>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11,
+      68</font></font></p>
     </td>
-    <td width="164" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Seconde</p>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Première
+      C</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">08</font></font></p>
+    </td>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Ahmadou
+      Goundoumboul</font></font></p>
+    </td>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11,
+      74</font></font></p>
+    </td>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Première
+      C</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">09</font></font></p>
+    </td>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Koraou
+      Bamwo</font></font></p>
+    </td>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11,
+      97</font></font></p>
+    </td>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Première
+      C</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10</font></font></p>
+    </td>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Ibrahim
+      Ibi</font></font></p>
+    </td>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      62</font></font></p>
+    </td>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Première
+      C</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11</font></font></p>
+    </td>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Waglassane
+      Dingï</font></font></p>
+    </td>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11,
+      13</font></font></p>
+    </td>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Première
+      A</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><br/>
+
+      </p>
+    </td>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><br/>
+
+      </p>
+    </td>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><br/>
+
+      </p>
+    </td>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><br/>
+
+      </p>
+    </td>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><br/>
+
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="19" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">12</font></font></p>
+    </td>
+    <td width="192" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Kemey
+      Guidé</font></font></p>
+    </td>
+    <td width="52" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="102" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">12,
+      08</font></font></p>
+    </td>
+    <td width="164" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Seconde</font></font></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
-<p >Tous
-les élèves du lycée ont obtenu la moyenne pour passer à la classe
-supérieure.<br/>
-<br/>
-<br/>
-
-</p>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Tous
+les élèves du lycée ont obtenu la moyenne pour passer dans la
+classe supérieure.<br/>
+</font></font><br/>
 <br/>
 
 </p>
-<p >Iv
-Les nouveaux élevés admis à l’entrée en 6eme.
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Iv
+Les nouveaux élèves admis à l’entrée en 6eme. </font></font>
 </p>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="37">
@@ -1175,144 +1224,145 @@ Les nouveaux élevés admis à l’entrée en 6eme.
   <col width="38">
   <col width="234">
   <tr valign="top">
-    <td width="37" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>No</p>
+    <td width="37" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">No</font></font></p>
     </td>
-    <td width="235" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Nom
-      et Prénom</p>
+    <td width="235" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Nom
+      et Prénom</font></font></p>
     </td>
-    <td width="38" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Sexe</p>
+    <td width="38" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Sexe</font></font></p>
     </td>
-    <td width="234" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Ecole
-      Primaire Fréquenter</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="37" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>01</p>
-    </td>
-    <td width="235" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Ayouba
-      Jlei</p>
-    </td>
-    <td width="38" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="234" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Tagayene</p>
+    <td width="234" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Ecole
+      Primaire Fréquenter</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="37" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>02</p>
+    <td width="37" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">01</font></font></p>
     </td>
-    <td width="235" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Moussoukabe
-      Koro</p>
+    <td width="235" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Ayouba
+      Jlei</font></font></p>
     </td>
-    <td width="38" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="38" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="234" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Tagayene</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="37" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>03</p>
-    </td>
-    <td width="235" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Ousman
-      Narsamou</p>
-    </td>
-    <td width="38" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="234" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Tagayene</p>
+    <td width="234" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Tagayene</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="37" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>04</p>
+    <td width="37" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">02</font></font></p>
     </td>
-    <td width="235" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Salamatou
-      Dadji</p>
+    <td width="235" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Moussoukabe
+      Koro</font></font></p>
     </td>
-    <td width="38" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
+    <td width="38" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="234" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Tagayene</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="37" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>05</p>
-    </td>
-    <td width="235" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Yolodo
-      Ousman</p>
-    </td>
-    <td width="38" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="234" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Tagayene</p>
+    <td width="234" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Tagayene</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="37" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>06</p>
+    <td width="37" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">03</font></font></p>
     </td>
-    <td width="235" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p> Boulacar
-      Jlei</p>
+    <td width="235" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Ousman
+      Narsamou</font></font></p>
     </td>
-    <td width="38" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="38" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="234" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Tagayene</p>
+    <td width="234" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Tagayene</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="37" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>07</p>
+    <td width="37" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">04</font></font></p>
     </td>
-    <td width="235" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Dardi
-      Kime</p>
+    <td width="235" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Salamatou
+      Dadji</font></font></p>
     </td>
-    <td width="38" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="38" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
     </td>
-    <td width="234" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Dilafata</p>
+    <td width="234" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Tagayene</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="37" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">05</font></font></p>
+    </td>
+    <td width="235" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Yolodo
+      Ousman</font></font></p>
+    </td>
+    <td width="38" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="234" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Tagayene</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="37" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">06</font></font></p>
+    </td>
+    <td width="235" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p> <font face="Arimo, serif"><font size="2" style="font-size: 10pt">Boulacar
+      Jlei</font></font></p>
+    </td>
+    <td width="38" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="234" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Tagayene</font></font></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="37" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">07</font></font></p>
+    </td>
+    <td width="235" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Dardi
+      Kime</font></font></p>
+    </td>
+    <td width="38" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="234" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Dilafata</font></font></p>
     </td>
   </tr>
   <tr>
-    <td colspan="4" width="586" valign="top" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">Total
-      = 07 nouveaux élevés.</p>
+    <td colspan="4" width="586" valign="top" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p align="right"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Total
+      = 07 nouveaux élèves.</font></font></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p align="right" style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
 <ol type="I" start="3">
   <li/>
-<p ><u>Les
-  élèves du collège ( de 6</u><sup><u>ème</u></sup><u>,
-  5</u><sup><u>ème</u></sup><u>,
-  4</u><sup><u>ème</u></sup><u>,
-  3</u><sup><u>ème</u></sup><u>)</u></p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; page-break-after: auto">
+  <span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">Les
+  élèves du collège ( de 6</span></u></span></font></font></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">ème</span></u></span></font></font></sup></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">,
+  5</span></u></span></font></font></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">ème</span></u></span></font></font></sup></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">,
+  4</span></u></span></font></font></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">ème</span></u></span></font></font></sup></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">,
+  3</span></u></span></font></font></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">ème</span></u></span></font></font></sup></span></font></span><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><u><span style="font-weight: normal">)</span></u></span></font></font></span></font></span></p>
 </ol>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="31">
@@ -1321,744 +1371,750 @@ Les nouveaux élevés admis à l’entrée en 6eme.
   <col width="106">
   <col width="106">
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>N<sup><u>o</u></sup></p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">N</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>o</u></font></font></sup></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Nom
-      et Prénom</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Nom
+      et Prénom</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Sexe</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Sexe</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Moyenne</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Moyenne</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Cours
-      à suivre</p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>01</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Péri
-      Makaou</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>12,
-      76</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 3<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Cours
+      à suivre</font></font></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>02</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">01</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Jangoudo
-      Bango</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Péri
+      Makaou</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>12,
-      98</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">12,
+      76</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 3<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>03</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Jodi
-      Hidimama</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>12,
-      64</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 3<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 3</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>04</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">02</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Moussa’a
-      Askou</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Jangoudo
+      Bango</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>12,
-      27</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">12,
+      98</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 3<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>05</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Bello
-      Dadi</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11,
-      16</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 3<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 3</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>06</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">03</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Aissa
-      Guide</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Jodi
+      Hidimama</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      13</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">12,
+      64</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 3<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>07</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Katche
-      Gayya</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      35</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Redouble
-      la 3<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 3</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>08</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">04</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Hadiya
-      Guide</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Moussa’a
+      Askou</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      64</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">12,
+      27</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Redouble
-      la 3<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 3</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">05</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Bello
+      Dadi</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11,
+      16</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 3</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">06</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Aissa
+      Guide</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      13</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 3</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">07</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Katche
+      Gayya</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      35</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Redouble
+      la 3</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">08</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Hadiya
+      Guide</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      64</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Redouble
+      la 3</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p><br/>
-
-      </p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>09</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Agali
-      Guide</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11,
-      07</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 4<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Cheffo
-      Mamouda</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      33</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 4<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Perodo
-      Hamika</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      78</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 4<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>12</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Boudjiti
-      Hamika</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11,
-      37</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 4<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>13</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Barka
-      Kabo</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      28</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 4<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p><br/>
-
-      </p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p><br/>
-
-      </p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p><br/>
-
-      </p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p><br/>
-
-      </p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>14</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">09</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Jeinere
-      Goutta</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Agali
+      Guide</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      57</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11,
+      07</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 5<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>15</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Jourotte
-      Barti</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>9,
-      50</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 5<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 4</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>16</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Benladen
-      Madora</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Cheffo
+      Mamouda</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11,
-      25</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      33</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 5<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>17</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Jappo
-      Jouli</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11,
-      61</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 5<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 4</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>18</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Alrala
-      Anmali</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Perodo
+      Hamika</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      24</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      78</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 5<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>19</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Baye
-      Dotiwa</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>11,
-      71</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 5<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 4</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>20</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">12</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Degui
-      Guide</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Boudjiti
+      Hamika</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      93</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11,
+      37</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 5<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>21</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Ibrahim
-      Garmidi</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      25</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 5<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 4</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>22</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">13</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Ousman
-      Benguel</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Barka
+      Kabo</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      64</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      28</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 5<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>23</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Yahaya
-      Hidimama</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>10,
-      25</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Classe
-      de 5<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 4</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
       <p><br/>
 
       </p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>24</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">14</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Houla
-      Hidimama</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Jeinere
+      Goutta</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>9,
-      26</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      57</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Redouble
-      la 6<sup>ème</sup></p>
-    </td>
-  </tr>
-  <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>25</p>
-    </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Fatima
-      Hidimama</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>F</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>9,
-      08</p>
-    </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Redouble
-      la 6<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 5</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>26</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">15</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Peri
-      Dadi</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Jourotte
+      Barti</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>8,
-      91</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">9,
+      50</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Redouble
-      la 6<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 5</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>27</p>
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">16</font></font></p>
     </td>
-    <td width="181" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Kadafi
-      Dadi</p>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Benladen
+      Madora</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>M</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>8,
-      86</p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11,
+      25</font></font></p>
     </td>
-    <td width="106" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p>Redouble
-      la 6<sup>ème</sup></p>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 5</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">17</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Jappo
+      Jouli</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11,
+      61</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 5</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">18</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Alrala
+      Anmali</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      24</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 5</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">19</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Baye
+      Dotiwa</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">11,
+      71</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 5</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">20</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Degui
+      Guide</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      93</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 5</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">21</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Ibrahim
+      Garmidi</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      25</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 5</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">22</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Ousman
+      Benguel</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      64</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 5</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">23</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Yahaya
+      Hidimama</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">10,
+      25</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Classe
+      de 5</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><br/>
+
+      </p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><br/>
+
+      </p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><br/>
+
+      </p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><br/>
+
+      </p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><br/>
+
+      </p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">24</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Houla
+      Hidimama</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">9,
+      26</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Redouble
+      la 6</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">25</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Fatima
+      Hidimama</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">F</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">9,
+      08</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Redouble
+      la 6</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">26</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Peri
+      Dadi</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">8,
+      91</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Redouble
+      la 6</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
+    </td>
+  </tr>
+  <tr valign="top">
+    <td width="31" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">27</font></font></p>
+    </td>
+    <td width="181" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Kadafi
+      Dadi</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">M</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">8,
+      86</font></font></p>
+    </td>
+    <td width="106" style="border: 1px solid #00000a; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.18cm; padding-right: 0.19cm">
+      <p><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Redouble
+      la 6</font></font><sup><font face="Arimo, serif"><font size="2" style="font-size: 10pt">ème</font></font></sup></p>
     </td>
   </tr>
 </table>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
-<p >Remarque:
-Tous les élèves du lycée ont obtenu la moyenne pour passer à la
-classe supérieure. Il faut aussi noter que 3 candidates se sont
-présentes au B.E.P.C dont 1 admis (Kerney Guide de Taturs)</p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Remarque:
+Tous les élèves du lycée ont obtenu la moyenne pour passer dans la
+classe supérieure. Il faut aussi noter que 3 candidats se sont
+présentés au B.E.P.C dont 1 admis (Kerney Guide de Tatis)</font></font></p>
 <ul>
   <li/>
-<p >Sur 28 élevés du collège, 22 élèves ayant obtenus la moyenne et
-  passent en classe supérieure et 6 élevés redoublent. Parmi ces
-  derniers 4 redoublants en classe de 6<sup>ème</sup> et 2 redoublants en classe
-  de 3<sup>ème</sup>.</p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; page-break-after: auto">
+  <span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">Sur
+  28 </span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">élèves</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">
+  du collège, 22 él</span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">è</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">v</span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">e</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">s
+  ayant obtenus la moyenne passent en classe supérieure et 6 </span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">élèves</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">
+  redoublent. Parmi ces derniers, il y a 4 redoublants en classe de 6
+  </span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">è</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">me
+  et 2 redoublants en classe de 3 </span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">è</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">me.</span></span></font></font></span></font></span></p>
   <li/>
-<p >-
-  L’école primaire de Dilafat à présente 1 candidat à l’entrée
-  en 6<sup>ème</sup> dont 1 admis.</p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; page-break-after: auto">
+  <span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">L’école
+  primaire de </span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">D</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">ilafata
+  à présent</span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">é</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">
+  1 candidat à l’entrée en 6</span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">è</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">me
+  </span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">qui
+  a été</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">
+  1 admis.</span></span></font></font></span></font></span></p>
   <li/>
-<p >L’école
-  primaire de Tagayeme a présenté 10 candidats à l’entrée en 6
-  eme dont 6 admis.</p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; page-break-after: auto">
+  <span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">L’école
+  primaire de Tagay</span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">èn</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">e
+  a présenté 10 candidats à l’entrée en 6 </span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">è</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">me
+  dont 6 admis.</span></span></font></font></span></font></span></p>
   <li/>
-<p >L’effectif
-  des élèves des écoles primaires de Tatirs et dilafata sont en
-  nette diminution. Mais quart à celui de l’école de Tagayene sera
-  très élevé cette année à cause du retour de plusieurs ménages
-  ayant quitté Tagayene, il y a de cela 10 ans. Nous avons déjà
-  recruté 45 élevés du C.I. On vous donnera l’évolution des
-  effectifs des fin octobre 2017.</p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; page-break-after: auto">
+  <span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">L’effectif
+  des élèves des écoles primaires de Tatis et </span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">D</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">ilafata
+  </span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">est
+  en net</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">
+  diminution. Mais celui de l’école de Tagayene sera très élevé
+  cette année </span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">en
+  raison </font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">du
+  retour de plusieurs ménages ayant quitté Tagayene, il y a de cela
+  10 ans. Nous avons déjà recruté 45 élevés </span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">en</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">
+  C.I. On vous donnera l’évolution des effectifs d</span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">è</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">s
+  fin octobre 2017.</span></span></font></font></span></font></span></p>
 </ul>
-<p align="right" ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
-<p ><u><span style="font-weight: normal">Conclusion</u></p>
-<p >Pour
+<p style="margin-bottom: 0.28cm; font-weight: normal; line-height: 106%">
+<font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Conclusion</u></font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Pour
 L’année scolaire 2017 -2018 l’effectif est de 48 élèves dont
-12 filles reparti comme suite,</p>
+12 filles, réparti comme suit:</font></font></p>
 <ul>
   <li/>
-<p >Ecole
-  normales d’institution de Tahoua- 2 élèves</p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; page-break-after: auto">
+  <span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">Ecole
+  normales d’institut</span></span></font></font></span></font></span><font face="Arimo, serif"><font size="2" style="font-size: 10pt">eur</font></font><span style="font-variant: normal"><font color="#000000"><span style="text-decoration: none"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><span style="font-style: normal"><span style="font-weight: normal">
+  de Tahoua- 2 élèves</span></span></font></font></span></font></span></p>
   <li/>
-<p >Lycée
-  -12 élèves</p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Lycée
+  -12 élèves</font></font></font></p>
   <li/>
-<p >College-34
-  élèves</p>
+<p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
+  <font color="#000000"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Collège-34
+  élèves</font></font></font></p>
 </ul>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Pour
+cette année scolaire 2017-2018 nous aurons 10 candidats aux examens
+du BEPC et BAC dont 2 candidats au BAC série A.</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Sur
+41 élèves 35 passent et 6 redoublent leur classe.</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
-<p >Pour
-cette année scolaire 2017-2018 nous auront 10 candidates aux examens
-de B.E.P.C et B.A.C dont 2 candidats au BAC série A.</p>
-<p >Sur
-41 élèves 35 passent et 6 redoublent leur classe.</p>
-<p ><br/>
+<p style="margin-bottom: 0.28cm; font-weight: normal; line-height: 106%">
+<font face="Arimo, serif"><font size="2" style="font-size: 10pt"><u>Divers</u></font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Pour
+L’année scolaire 2016-2017, 5 virements ont été effectués et
+sur chaque virement la banque B.I.A opère un prélèvement de 70
+euros, soit au total 70 euros x 5= 350 euros soit (229.250 FCFA).
+Nous avons ajusté les dépenses grâce au montant de 300.000FCFA
+provenant de la vente de matériel, moulin et remorque appartenant à
+LézArts Humanitaire. Abdoulmoumine, l’acheteur, a remis à  Bawmo
+l’argent de la vente. Cet argent a été utilisé pour les fêtes
+de fin d’année des écoles. </font></font>
+</p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Il
+reste une somme de  70.750CFA.</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><br/>
 <br/>
 
 </p>
-<p style="margin-bottom: 0.28cm; font-weight: normal"><u>Divers</u></p>
-<p >Pour
-L’année scolaire 2016-2017, 5 virements ont été effectué et sur
-chaque virement la banque B.T.A opère un prélèvement de 70 euro,
-soit au total 70 euro x 5= 35 euros soit (229.25 FCFA). Nous aurons
-eu à ajuster les dépenses grâce au montant de 300.00 FCFA de la
-vente du moulin et remange qu’Abdoulmomime a remis à Bamwo. Nous
-avons organisé la fête scolaire aux élèves d’Ambala avec la
-</p>
-<p >Somme
-restant de 70.75FCFA.</p>
-<p >Ci
-jointes les pièces suivantes</p>
-<ul>
-  <li/>
-<p >8
-  bulletins dont 2 apportent la carte scolaire.</p>
-  <li/>
-<p >8
-  pages du rapport.</p>
-  <li/>
-<p >Une
-  lettre de Bamwo</p>
-  <li/>
-<p >Des
-  photos des élèves par classe et ceux de la fête scolaire.</p>
-</ul>
-<p ><br/>
-<br/>
-
-</p>
-<p ><b>Signé</b></p>
-<p >Issoufou
-Salifou Directeur de l’ecole Tagayene</p>
-<p >Contact:
-+22791768322</p>
-<p >Mail:
-issousalifou@gmail.com</p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt"><b>Signé</b></font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Issoufou
+Salifou Directeur</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">De
+l’école Tagayene</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Contact:
++22791768322</font></font></p>
+<p style="margin-bottom: 0.28cm; line-height: 106%"><font face="Arimo, serif"><font size="2" style="font-size: 10pt">Mail:
+issousalifou@gmail.com</font></font></p>
