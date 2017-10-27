@@ -60,14 +60,14 @@ Einschreibgebühren für das CSP belaufen sich wie folgt:</p>
   <col width="128*">
   <col width="128*">
   <tr valign="top">
-    <td width="50%" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="50%">
       <p>Einschreibgebühren
       2. (110.000FcFA x 1)<br/>
 Einschreibgebühren 1. (125.000FcFA x
       9)<br/>
 Einschreibgebühren Ter. (140.000FcFA x 2)</p>
     </td>
-    <td width="50%" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="50%">
       <p>   110.000FcFA
       <sup><span style="background: transparent">4)</span></sup><br/>
 1.125.000FcFA<br/>
@@ -76,16 +76,16 @@ Einschreibgebühren Ter. (140.000FcFA x 2)</p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="50%" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="50%">
       <p>Einschreibgebühren
       für 12 Schüler</p>
     </td>
-    <td width="50%" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">1.515.000FcFA</p>
+    <td width="50%">
+      <p>1.515.000FcFA</p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="50%" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="50%">
       <p>Nahrung
       (500F x12) x 15 für 15 Tage<br/>
 Miete für 15 Tage<br/>
@@ -94,13 +94,13 @@ Strom
 Köchin für 15 Tage<br/>
 Entgelt für die
       Berichte (Direktor)<br/>
-Kauf von 2 Batterien (645.000FcFA x
+Kauf von 2 Batterien (45.000FcFA x
       2)<br/>
 Kauf von 2 Unterbrechern (30.000FcFA x2)<br/>
 Schlafplätze
       für 7 Neue (35.000FcFA x 7)</p>
     </td>
-    <td width="50%" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="50%">
       <p>    90.000FcFA<br/>
 
          15.000FcFA<br/>
@@ -115,12 +115,12 @@ Schlafplätze
     </td>
   </tr>
   <tr valign="top">
-    <td width="50%" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="50%">
       <p>Total
       Einschreibgebühr und Lebenskosten</p>
     </td>
-    <td width="50%" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right"><span lang="de-CH">2.147.000FcFA</span></p>
+    <td width="50%">
+      <p><span lang="de-CH">2.147.000FcFA</span></p>
     </td>
   </tr>
 </table>
@@ -150,27 +150,26 @@ Abschlussjahr<br/>
 B.A.C. eine Matur (od. Abitur)<br/>
          4) 1 Euro = 655 FcFA
 (Westafrikanische Währung für Niger, Mali, Senegal, Togo etc.)</span></p>
-<p align="right" style="margin-bottom: 0.28cm; text-decoration: none">
-2</p>
+
 <p align="left" ><u><br/>
 III.
 Budget der 48 Schüler für das erste Trimester: (Oktober –
 November – Dezember 2017)</u></p>
 <p style="margin-bottom: 0.28cm; text-decoration: none">Budget
 der beiden Schüler in Tahoua</p>
-<div align="right">
+<div>
   <table width="602" cellpadding="7" cellspacing="0">
     <col width="286">
     <col width="286">
     <tr>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+      <td width="286">
         <p>Nahrung
         (20.000F x2) x 3 Monate<br/>
 Miete(20.000F) x 3 Monate<br/>
 Strom
         (3000F) x 3 Monate</p>
       </td>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+      <td width="286">
         <p>120.000
         FcFA<br/>
   60.000 FcFA<br/>
@@ -178,11 +177,11 @@ Strom
       </td>
     </tr>
     <tr>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+      <td width="286">
         <p>Total</p>
       </td>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-        <p align="right">189.000
+      <td width="286">
+        <p>189.000
         FcFA</p>
       </td>
     </tr>
@@ -195,7 +194,7 @@ der 46 Schüler am Gymnasium und der Hochschule</p>
   <col width="286">
   <col width="286">
   <tr valign="top">
-    <td width="286" height="5" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="286" height="5">
       <p>Einschreibgebühren
       für die 34 Schüler der Hochschule (90.000F x 34)<br/>
 Nahrung
@@ -208,7 +207,7 @@ Lernförderung
       (40.000F x 3) x 3 Monate<br/>
 Notfall-Krankenkasse</p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="286">
       <p><br/>
 3.060.000FcFA<br/>
 2.070.000FcFA<br/>
@@ -222,12 +221,12 @@ Notfall-Krankenkasse</p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="286">
       <p>Total
       Einschreibgebühren + Lebensunterhalt</p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">5.800.000FcFA</p>
+    <td width="286">
+      <p>5.800.000FcFA</p>
     </td>
   </tr>
 </table>
@@ -237,8 +236,6 @@ Gesamtbetrag für das Budget der 48 Schüler für das erste Trimester
 (Oktober - November – Dezember 2017) ist 5.989.000FcFA umgerechnet
 9.143 Euro. Diese Summe sollte Anfang Oktober 2017 ausbezahlt werden.
 <br/>
-<br/>
-<br/>
 
 </p>
 <p ><u>IV.
@@ -246,19 +243,19 @@ Budget der 48 Schüler für das 2. Trimester (Januar-Februar-März
 2018)</u></p>
 <p >Budget
 der beiden Schüler in Tahoua</p>
-<div align="right">
+<div>
   <table width="602" cellpadding="7" cellspacing="0">
     <col width="286">
     <col width="286">
     <tr>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+      <td width="286">
         <p>Nahrung
         (20.000F x2) x 3 Monate<br/>
 Miete(20.000F) x 3 Monate<br/>
 Strom
         (3000F) x 3 Monate</p>
       </td>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+      <td width="286">
         <p>120.000
         FcFA<br/>
   60.000 FcFA<br/>
@@ -266,11 +263,11 @@ Strom
       </td>
     </tr>
     <tr>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+      <td width="286">
         <p>Total</p>
       </td>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-        <p align="right">189.000
+      <td width="286">
+        <p>189.000
         FcFA</p>
       </td>
     </tr>
@@ -283,7 +280,7 @@ der 46 Schüler der Hochschule und des Gymnasiums</p>
   <col width="286">
   <col width="286">
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="286">
       <p><span lang="fr-FR">Nahrung
       (</span><span lang="de-CH"> (500F x 46) x 90 Tage<br/>
 </span>Miete
@@ -293,7 +290,7 @@ Köchin
       (30.000F) x 3 Monate<br/>
 Lernförderung  (40.000F x 3) x 3 Monate</p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="286">
       <p>2.070.000FcFA<br/>
 
         105.000FcFA<br/>
@@ -304,11 +301,11 @@ Lernförderung  (40.000F x 3) x 3 Monate</p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="286">
       <p>Total</p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">2.640.000FcFA</p>
+    <td width="286">
+      <p>2.640.000FcFA</p>
     </td>
   </tr>
 </table>
@@ -319,26 +316,24 @@ Trimester (Januar– Februar – März 2018) ist 2.829.000FcFA
 umgerechnet 4.319 Euro. Diese Summe sollte Anfang Januar 2018
 ausbezahlt werden.
 </p>
-<p align="right" style="margin-bottom: 0.28cm; text-decoration: none">
-3</p>
 <p ><u>V.
 Budget der 48 Schüler für das dritte Trimester (April – Mai –Juni
 2018)</u></p>
 <p >Budget
 der 2 Schüler von Tahoua:</p>
-<div align="right">
+<div>
   <table width="602" cellpadding="7" cellspacing="0">
     <col width="286">
     <col width="286">
     <tr>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+      <td width="286">
         <p>Nahrung
         (20.000F x2) x 3 Monate<br/>
 Miete(20.000F) x 3 Monate<br/>
 Strom
         (3000F) x 3 Monate</p>
       </td>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+      <td width="286">
         <p>120.000
         FcFA<br/>
   60.000 FcFA<br/>
@@ -346,11 +341,11 @@ Strom
       </td>
     </tr>
     <tr>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+      <td width="286">
         <p>Total</p>
       </td>
-      <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-        <p align="right">189.000
+      <td width="286">
+        <p>189.000
         FcFA</p>
       </td>
     </tr>
@@ -363,7 +358,7 @@ der 46 Schüler an der Hochschule und dem Gymnasium:</p>
   <col width="286">
   <col width="286">
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="286">
       <p><span lang="fr-FR">Nahrung
       (</span><span lang="de-CH"> (500F x 46) x 90 Tage<br/>
 </span>Miete
@@ -373,7 +368,7 @@ Köchin
       (30.000F) x 3 Monate<br/>
 Lernförderung  (40.000F x 3) x 3 Monate</p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="286">
       <p>2.070.000FcFA<br/>
 
         105.000FcFA<br/>
@@ -384,11 +379,11 @@ Lernförderung  (40.000F x 3) x 3 Monate</p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="286">
       <p>Total</p>
     </td>
-    <td width="286" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">2.640.000FcFA</p>
+    <td width="286">
+      <p>2.640.000FcFA</p>
     </td>
   </tr>
 </table>
@@ -417,7 +412,7 @@ der Eltern 2017 -2018</u></p>
   <col width="196">
   <col width="176">
   <tr valign="top">
-    <td colspan="2" width="396" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td colspan="2" width="396">
       <p>Frühstück
       (200F x 48) x 90 Tage x 3<br/>
 Feuerholz (40.000F) x 9
@@ -429,7 +424,7 @@ Schulkleidung (10.000F x 46)<br/>
 Ausstattung
       und Schulausweis (10.000F x 48)</p>
     </td>
-    <td width="176" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="176">
       <p>2.592.000FcFA<br/>
 
         360.000FcFA<br/>
@@ -441,16 +436,16 @@ Ausstattung
     </td>
   </tr>
   <tr valign="top">
-    <td width="186" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="186">
       <p>Total</p>
     </td>
-    <td width="196" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="196">
       <p><br/>
 
       </p>
     </td>
-    <td width="176" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">4.672.00FcFA</p>
+    <td width="176">
+      <p>4.672.00FcFA</p>
     </td>
   </tr>
 </table>
@@ -470,7 +465,7 @@ Euro</b></span><span lang="de-CH">.</span></p>
 der Eltern → 4.672.000FcFA umgerechnet <b>7.132 Euro</b></p>
 <p >Betrag
 der angeforderten Hilfe → 13.794.000FcFA umgerechnet <b>21.059 Euro</b></p>
-<p align="right" >4</p>
+
 <p >Situation
 und Lern-Niveau der Schüler im Schuljahr 2017-2018.</p>
 <p >Die
@@ -481,37 +476,37 @@ Schüler in der normalen Schule von Tahoua</p>
   <col width="91">
   <col width="188">
   <tr valign="top">
-    <td width="22" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="22">
       <p><span lang="de-CH">N</span><sup><span lang="de-CH">o</span></sup></p>
     </td>
-    <td width="243" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="243">
       <p>Name
       und Vorname</p>
     </td>
-    <td width="91" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="91">
       <p>Geschlecht</p>
     </td>
-    <td width="188" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="188">
       <p>Kurs
 
       </p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="22" height="24" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="22" height="24">
       <p>01<br/>
 02</p>
     </td>
-    <td width="243" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="243">
       <p>Keïnido
       Barthi<br/>
 Bodejo Doulla</p>
     </td>
-    <td width="91" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="91">
       <p>W<br/>
 M</p>
     </td>
-    <td width="188" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="188">
       <p><span lang="de-CH">2</span><sup><span lang="de-CH">ème
       </span></sup><span lang="de-CH">année<br/>
 2</span><sup><span lang="de-CH">ème
@@ -532,31 +527,39 @@ Schüler des Gymnasiums</p>
   <col width="86">
   <col width="159">
   <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="19">
       <p><span lang="de-CH">N</span><sup><span lang="de-CH"><u>o</u></span></sup></p>
     </td>
-    <td width="187" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="187">
       <p>Name
       und Vorname</p>
     </td>
-    <td width="77" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="77">
       <p>Geschlecht</p>
     </td>
-    <td width="86" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="86">
       <p>Durchschnitt</p>
     </td>
-    <td width="159" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="159">
       <p>Kurs</p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="19" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="19">
       <p>01<br/>
 02<br/>
 03<br/>
-040506070809101112</p>
+04<br/>
+05<br/>
+06<br/>
+07<br/>
+08<br/>
+09<br/>
+10<br/>
+11<br/>
+12</p>
     </td>
-    <td width="187" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="187">
       <p>Wiyajo
       Goutta<br/>
 Azé Doula<br/>
@@ -574,7 +577,7 @@ Ibrahim
 Waglassane Dingï<br/>
 Kemey Guidé</p>
     </td>
-    <td width="77" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="77">
       <p>M<br/>
 M<br/>
 M<br/>
@@ -588,7 +591,7 @@ M<br/>
 M<br/>
 M</p>
     </td>
-    <td width="86" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="86">
       <p>14,
       20<br/>
 10, 64<br/>
@@ -604,7 +607,7 @@ M</p>
 11, 13<br/>
 12, 08</p>
     </td>
-    <td width="159" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="159">
       <p>Terminale
       A<br/>
 Terminale A<br/>
@@ -626,15 +629,9 @@ Seconde</p>
 <p >Alle
 Gymnasiasten erreichten den für ihre Versetzung in die nächsthöhere
 Klasse notwendigen  Notendurchschnitt.</p>
-<p ><br/>
-<br/>
-
-</p>
 <p ><span lang="de-CH">Iv
 Die neuen Schüler der 6. </span><span lang="fr-FR">Klasse&nbsp;:<br/>
-</span><br/>
-<br/>
-
+</span>
 </p>
 <table width="602" cellpadding="7" cellspacing="0">
   <col width="35">
@@ -642,23 +639,23 @@ Die neuen Schüler der 6. </span><span lang="fr-FR">Klasse&nbsp;:<br/>
   <col width="78">
   <col width="222">
   <tr valign="top">
-    <td width="35" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="35">
       <p>No</p>
     </td>
-    <td width="209" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="209">
       <p>Name
       und Vorname</p>
     </td>
-    <td width="78" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="78">
       <p>Geschlecht</p>
     </td>
-    <td width="222" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="222">
       <p>Schulort
       der Primarschule</p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="35" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="35">
       <p>01<br/>
 02<br/>
 03<br/>
@@ -667,7 +664,7 @@ Die neuen Schüler der 6. </span><span lang="fr-FR">Klasse&nbsp;:<br/>
 06<br/>
 07</p>
     </td>
-    <td width="209" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="209">
       <p>Ayouba
       Jlei<br/>
 Moussoukabe Koro<br/>
@@ -678,7 +675,7 @@ Yolodo Ousman<br/>
  Boulacar Jlei<br/>
 Dardi Kime</p>
     </td>
-    <td width="78" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="78">
       <p align="center">M<br/>
 M<br/>
 M<br/>
@@ -687,7 +684,7 @@ M<br/>
 M<br/>
 M</p>
     </td>
-    <td width="222" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="222">
       <p align="left">Tagayene<br/>
 <span lang="fr-FR">Tagayen</span><span lang="de-CH">e<br/>
 </span>Tagayene<br/>
@@ -698,15 +695,12 @@ Dilafata</p>
     </td>
   </tr>
   <tr>
-    <td colspan="4" width="586" valign="top" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td colspan="4" width="586" valign="top">
       <p>Total
       = 07 neue Schüler.</p>
     </td>
   </tr>
 </table>
-
-<p lang="de-CH" align="right" style="margin-bottom: 0.28cm; text-decoration: none">
-5</p>
 <p ><span lang="de-CH"><u>Die
 Schüler der Sekundarschule (College)  ( de 6</u></span><sup><span lang="de-CH"><u>ème</u></span></sup><span lang="de-CH"><u>,
 5</u></span><sup><span lang="de-CH"><u>ème</u></span></sup><span lang="de-CH"><u>,
@@ -719,25 +713,25 @@ Schüler der Sekundarschule (College)  ( de 6</u></span><sup><span lang="de-CH">
   <col width="95">
   <col width="141">
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="31">
       <p><span lang="de-CH">N</span><sup><span lang="de-CH"><u>o</u></span></sup></p>
     </td>
-    <td width="182" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="182">
       <p>Name
       und Vorname</p>
     </td>
-    <td width="78" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="78">
       <p>Geschlecht</p>
     </td>
-    <td width="95" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="95">
       <p>Durchschnitt</p>
     </td>
-    <td width="141" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="141">
       <p>Kurs</p>
     </td>
   </tr>
   <tr valign="top">
-    <td width="31" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="31">
       <p>01<br/>
 02<br/>
 03<br/>
@@ -766,7 +760,7 @@ Schüler der Sekundarschule (College)  ( de 6</u></span><sup><span lang="de-CH">
 26<br/>
 27</p>
     </td>
-    <td width="182" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="182">
       <p>Péri
       Makaou<br/>
 Jangoudo Bango<br/>
@@ -803,7 +797,7 @@ Fatima Hidimama<br/>
 Peri Dadi<br/>
 Kadafi Dadi</p>
     </td>
-    <td width="78" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="78">
       <p align="center">M<br/>
 M<br/>
 M<br/>
@@ -832,8 +826,8 @@ W<br/>
 M<br/>
 M</p>
     </td>
-    <td width="95" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
-      <p align="right">12,
+    <td width="95">
+      <p>12,
       76<br/>
 12, 98<br/>
 12, 64<br/>
@@ -866,7 +860,7 @@ M</p>
 8, 91<br/>
 8, 86</p>
     </td>
-    <td width="141" style="border: 1px solid #00000a; padding: 0cm 0.19cm">
+    <td width="141">
       <p><span lang="de-CH">Classe
       de 3</span><sup><span lang="de-CH">ème<br/>
 </span></sup><span lang="de-CH">Classe
@@ -954,7 +948,6 @@ ausgewandert waren, ihren Haushalt wieder zurück nach Tagayeme,
 verlegt haben Wir haben schon 45 Schüler gewinnen können. Wir
 werden Sie über die Entwicklung des Bestands bis Ende Oktober 2017
 unterrichten.</p>
-<p align="right" >6</p>
 <p ><br/>
 Zusammenfassung</p>
 <p >Im
@@ -966,19 +959,12 @@ von Tahoua (école normale d'instituteur): 2 Schüler</p>
 (Lycée): 12 Schüler</p>
 <p >Sekundarschule
 (Collège): 34 Schüler</p>
-<p ><br/>
-<br/>
-
-</p>
 <p >Für
 das Schuljahr 2017-2018 haben wir 10 Kandidaten für die B.E.P.C und
 B.A.C Abschlussexamen, davon 2 Kandidaten in der B.A.C. Serie A.</p>
 <p >Von
 41 Schülern haben 35 bestanden und 6 werden ihre Klasse wiederholen.</p>
-<p ><br/>
-<br/>
 
-</p>
 <p >Diverses</p>
 <p >Im
 Schuljahr 2016-2017, wurden insgesamt 5 Banküberweisungen getätigt.
@@ -988,20 +974,7 @@ Essens-Einteilung und dem Verkauf der Mühle einen Betrag von 300.00
 FCFA einsparen, welcher von Abdoulmomime an Bamwo überwiesen wurde.
 Mit dem übrig gebliebenen Betrag von 70.75FCFA. konnten wir das
 Schulfest von Ambala finanzieren.</p>
-<p >Beiliegend
-folgende Schriftstücke</p>
-<p >8
-Zeugnisse , davon 2 mit Schulausweis</p>
-<p >8-seitiger
-Bericht.</p>
-<p >Ein
-Brief von Bamwo</p>
-<p >Fotos
-der Schulklassen am Tag des Abschlussfestes.</p>
-<p ><br/>
-<br/>
 
-</p>
 <p >Unterschrift:</p>
 <p >Issoufou
 Salifou Directeur</p>
@@ -1012,6 +985,6 @@ l’ecole Tagayene</p>
 <p style="margin-bottom: 0.28cm; font-weight: normal">Mail:
 issousalifou@gmail.com</p>
 
-<p align="right" >Übersetzung
+<p >Übersetzung
 aus dem Französischen: B. Holenstein</p>
 </div>
