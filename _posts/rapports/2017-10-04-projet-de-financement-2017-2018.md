@@ -26,20 +26,9 @@ authors:
  - issoufou
 
 ---
-
-
-<h1 class="western" align="center" style="text-indent: 0cm; line-height: 100%">
-  Rapport
-  du projet de financement des besoins de 48 élèves<br/>
-Peuhl
-  Bororos de Tatiss, Dilafata et Tagayène pour<br/>
-l’année
-  scolaire 2017-2018.</h1>
-
-<p align="center" style="margin-bottom: 0.28cm; line-height: 100%"><br/>
-<br/>
-
-</p>
+<h2>Rapport du projet de financement <br/>des besoins de 48 élèves
+Peuhl Bororos <br/>de Tatiss, Dilafata et Tagayène <br/>pour
+l’année scolaire 2017-2018.</h2>
 <ol type="I">
   <li/>
 <p align="left" style="margin-bottom: 0.28cm; border: none; padding: 0cm; font-variant: normal; font-style: normal; font-weight: normal; line-height: 106%; page-break-inside: auto; orphans: 2; widows: 2; text-decoration: none; page-break-after: auto">
