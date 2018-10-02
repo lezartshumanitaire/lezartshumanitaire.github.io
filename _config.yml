@@ -25,6 +25,11 @@ authors:
     nom: Baumann
     fonction: Président Lézarts Humanitaire France
 
+  - id: mr
+    prenom: Martin
+    nom: Rathgeb
+    fonction:
+
   - id: dj
     prenom: David
     nom: Jacquel
@@ -115,7 +120,7 @@ exclude:
 include:
   - .nojekyll
 
-gems:
+plugins:
  - jekyll-paginate
 # - jekyll/responsive_image
 
