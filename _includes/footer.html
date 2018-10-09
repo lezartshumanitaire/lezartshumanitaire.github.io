@@ -8,13 +8,13 @@
     </div>
 
     <div class="{{ colClasses }} col-sm-offset-1">
-      {% assign pages = site.pages | sort: 'weight' %}
+      {%- assign pages = site.pages | sort: 'weight' %}
       <ul>
-      {% for p in pages %}
-        {% if p.menu == "main" %}
+      {%- for p in pages %}
+        {%- if p.menu == "main" %}
       <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
-        {% endif %}
-      {% endfor %}
+        {%- endif %}
+      {%- endfor %}
       </ul>
     </div>
 
@@ -25,11 +25,11 @@
     </div>
 
     <div class="{{ colClasses }}">
-    {% assign footerPages = site.pages | where: "menu", "footer" %}
+      {%- assign footerPages = site.pages | where: "menu", "footer" %}
       <ul class="list-inline">
-      {% for p in footerPages %}
+      {%- for p in footerPages %}
         <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
-      {% endfor %}
+      {%- endfor %}
       <li class="text-muted">&copy; {{site.title}} 2016</li>
       </ul>
     </div>
