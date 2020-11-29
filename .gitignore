@@ -2,3 +2,6 @@ _site
 .sass-cache
 .jekyll-cache
 img/resized
+
+
+.Gemfile.lock
