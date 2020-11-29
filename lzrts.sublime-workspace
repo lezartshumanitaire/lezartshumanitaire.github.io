@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"intall ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/djacquel/www/lzrt"
+	],
+	"file_history":
+	[
+		"/home/djacquel/Dropbox/ligue/201130-point-dg.txt",
+		"/home/djacquel/Dropbox/document/IT-general/ubuntu-18.04-LTS-Bionic-Beaver-install-thinkpad-T450.txt",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/bureau-ca/draft-odj/odj CA élargi du 26 nov 2020",
+		"/home/djacquel/Dropbox/pygmeeweb/010_clients/lezarts-humanitaire/lzrt-comptes.txt",
+		"/home/djacquel/.bashrc",
+		"/home/djacquel/Dropbox/ligue/configuration-routeur-wifi-netgear-r6120.txt",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/datas/cptes.txt",
+		"/home/djacquel/Dropbox/ligue/numerique2022/numerique 2022.km",
+		"/home/djacquel/.cache/.fr-R60r2s/README.txt",
+		"/home/djacquel/Dropbox/clefs/clef-chris.txt",
+		"/home/djacquel/Downloads/contacts-1.vcf",
+		"/home/djacquel/Downloads/Nouvelle Mindmap.km",
+		"/tmp/mozilla_djacquel0/contacts.vcf",
+		"/home/djacquel/.config/dconf/user",
+		"/home/djacquel/.config/gtk-2.0/gtkfilechooser.ini",
+		"/home/djacquel/.config/gtk-3.0/bookmarks",
+		"/home/djacquel/.sudo_as_admin_successful",
+		"/home/djacquel/Dropbox/pygmeeweb/010_clients/cgt-retraites-chaumont/200804-toto.txt",
+		"/home/djacquel/.profile",
+		"/media/djacquel/C794-1087/clef-chris.txt",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/communication/vision-strat/Maker 52 - FabLab Chaumont - presentation Agglo - 6 oct 2020.txt",
+		"/home/djacquel/Downloads/XeroxOfficev5Pkg-Linuxx86_64-5.20.661.4684.deb",
+		"/home/djacquel/Dropbox/ligue/lettre-motication-david-jacquel.txt",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/todos/200905-todo.tx",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/communication/newsletter/200910-brouillon-newsletter-forum-asso.txt",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/bureau-ca/draft-odj/odj CA élargi du 7 (ou 8) septembre 2020",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/projets/robot-1/robot Raspberry PI zero.txt",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/secu/cnam/audit-cnam.tx",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/todos/200814-todo.txt",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/bureau-ca/draft-odj/20200828-odj.txt",
+		"/home/djacquel/.filezilla/sitemanager.xml",
+		"/home/djacquel/.filezilla/bookmarks.xml",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/projets/rapport-operation-visieres.txt",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/todos/200814-todo (djacquel-HP-EliteBook-8470p's conflicted copy 2020-08-23).txt",
+		"/home/djacquel/Dropbox/maker-52-fablab-chaumont/projets/odj reunion presentation 08 juillet 2020",
+		"/home/djacquel/Dropbox/informatique/ubuntu/Ubuntu 20.04 - apache-php-mysql install .txt",
+		"/home/djacquel/.ssh/id-rsa-2020.pub",
+		"/home/djacquel/.ssh/id_rsa.pub",
+		"/home/djacquel/.ssh/config",
+		"/home/djacquel/Dropbox/ordinateurs/piratage-boite-yahoo-martine.txt",
+		"/home/djacquel/Dropbox/marie-line-atelier-7/noel-2017/liste contacts david.txt",
+		"/home/djacquel/Dropbox/geekery/web/Apache configuration on Ubuntu 18.04.markdown",
+		"/home/djacquel/Dropbox/marie-line-atelier-7/doc/inauguration-site-menu.txt",
+		"/home/djacquel/Dropbox/faverolles/internet/internet-faverolles.txt",
+		"/home/djacquel/Dropbox/faverolles/procedures/Check-list Equipement Individuel.txt",
+		"/home/djacquel/Dropbox/faverolles/festival-2017/wix.txt",
+		"/home/djacquel/Dropbox/faverolles/festival-2017/whois-chateaudefaverolles.com.txt",
+		"/home/djacquel/Dropbox/faverolles/festival-2017/todo.txt",
+		"/home/djacquel/Dropbox/faverolles/festival-2017/Postes-benevoles.txt",
+		"/home/djacquel/Dropbox/faverolles/coop/20171021-coop-chateau-de-faverolles.mm",
+		"/home/djacquel/Dropbox/faverolles/festival-2017/galleries-list.txt",
+		"/home/djacquel/Dropbox/faverolles/festival-2017/liste-emails-photos.txt",
+		"/home/djacquel/Dropbox/faverolles/festival-2017/Location scene.txt",
+		"/home/djacquel/Dropbox/dr-daja/Description formation niveau 0.txt",
+		"/home/djacquel/Dropbox/document/restart-wifi-service.txt",
+		"/home/djacquel/Dropbox/document/loremtech.txt",
+		"/home/djacquel/Dropbox/document/line-20150523.txt",
+		"/home/djacquel/Dropbox/document/install-sonata-user.txt",
+		"/home/djacquel/Dropbox/document/github-playing-with-fork.md",
+		"/home/djacquel/Dropbox/document/daja-macron-demission.txt",
+		"/home/djacquel/Dropbox/document/daja-injustice.txt",
+		"/home/djacquel/Dropbox/document/daja-80-20.txt",
+		"/home/djacquel/Dropbox/document/backup-procedure.md",
+		"/home/djacquel/Dropbox/document/IT-general/blender-shortcuts.txt",
+		"/home/djacquel/Dropbox/document/IT-general/bash-commands.txt",
+		"/home/djacquel/Dropbox/document/ideas/ideas-2016-11.txt",
+		"/home/djacquel/Dropbox/document/david/brouillon-profil-de-poste.txt",
+		"/home/djacquel/Dropbox/djacquel/C'est qui ce gars ?",
+		"/home/djacquel/Dropbox/djacquel/clef-suitul.txt",
+		"/home/djacquel/Dropbox/djacquel/memories/Djibouti DA188",
+		"/home/djacquel/Dropbox/djacquel/sorties-mjc52/fiche-sorties-nature-mjc52.txt",
+		"/home/djacquel/.gitconfig",
+		"/home/djacquel/Dropbox/cron/rbenv_update.sh",
+		"/home/djacquel/Dropbox/cron/test.sh",
+		"/home/djacquel/Dropbox/chris/Pffffff !"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lzrts.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
