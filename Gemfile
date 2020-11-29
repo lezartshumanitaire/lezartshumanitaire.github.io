@@ -7,10 +7,10 @@ source 'https://rubygems.org'
 # playing with github pages current version
 # no need to add any of the gh-pages accepted plugins (like jekyll-paginate) here
 # they are already installed by gh-pages plugin
-gem 'github-pages'
+# gem 'github-pages'
 
 # playing with the last jekyll's version
-# gem 'jekyll'
+gem 'jekyll'
 
 # playing with a specific jekyll's version
 # gem 'jekyll', '3.1.6'
