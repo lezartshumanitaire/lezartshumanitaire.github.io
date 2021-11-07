@@ -16,7 +16,7 @@ documents:
 # liste des auteurs de l'article
 # voir liste dans _config.yml entrée authors
 authors:
- - ptk
+ - mr
 
 ---
 ### Documents à télécharger
