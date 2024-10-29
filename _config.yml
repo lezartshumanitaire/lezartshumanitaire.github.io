@@ -4,7 +4,7 @@ description: "L'ONG LézArts humanitaire est une organisation non-gouvernemental
 
 emails:
   - contact@lezartshumanitaire.com
-  - lh@pygmeeweb.com
+  - lezarts.humanitaire@gmail.com
 
 baseurl: ""
 url: "https://www.lezartshumanitaire.com"
@@ -116,6 +116,7 @@ exclude:
   - .travis.yml
   - bower.json
   - Readme.md
+  - node_modules
 
 include:
   - .nojekyll
